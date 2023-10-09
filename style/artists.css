@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  transition: 0.15s ease-in-out;
+}
+* ::-webkit-scrollbar {
+  display: none;
+}
+
+.artists-section {
+  width: 100%;
+  height: auto;
+  background-color: #7943e3;
+  display: flex;
+  justify-content: stretch;
+  flex-wrap: wrap;
+}
+.artists-section .artist-card {
+  max-width: 30%;
+  height: 400px;
+  margin: 1.25em;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+}
+.artists-section .artist-card .artist-img {
+  background-image: url("../assets/profile_foto.jpeg");
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 200px;
+}
+.artists-section .artist-card .artist-info {
+  padding: 1em;
+  height: 6em;
+}
+.artists-section .artist-card .artist-info h1 {
+  color: white;
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
+}
+.artists-section .artist-card .artist-info p {
+  height: 6em;
+  color: white;
+  font-size: 0.75em;
+  margin-bottom: 1.5em;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+.artists-section .artist-card .artist-info .info-bottom {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.artists-section .artist-card .artist-info .info-bottom .see-more {
+  border: none;
+  background-color: #c8ff6e;
+  color: black;
+  width: 40%;
+}
+.artists-section .artist-card .artist-info .info-bottom .socials {
+  width: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.artists-section .artist-card .artist-info .info-bottom .socials .social-link {
+  border: none;
+  border-radius: 50%;
+  background-color: #c8ff6e;
+  color: black;
+  min-height: 1.5em;
+  min-width: 1.5em;
+  margin-left: 0.5em;
+}
+
+/*# sourceMappingURL=artists.css.map */

@@ -1,0 +1,842 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    transition: 0.15s ease-in-out;
+    ::-webkit-scrollbar {
+        display: none;
+    }
+}
+
+//// Colors
+
+$fluo: #c8ff6e;
+$pink: #ff4294;
+$blue: #00aeff;
+$violet: #7943e3;
+$mustard: #f8b100;
+
+//// Breakpoint
+
+$tablet: 825px;
+$mobile: 600px;
+
+.navbar {
+    display: flex;
+
+    .logo-section {
+        background-color: $fluo;
+        width: 30%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        a {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+
+            img {
+                width: 75%;
+                padding: 1em;
+                margin: 1em;
+            }
+        }
+    }
+    .nav-links-section {
+        background-color: black;
+        display: flex;
+        width: 70%;
+        justify-content: space-evenly;
+        align-items: center;
+        padding: 4em 2em;
+
+        .links {
+            width: 100%;
+            display: flex;
+            justify-content: space-evenly;
+
+            .nav-link {
+                color: white;
+                font-size: 1.5em;
+                text-decoration: none;
+            }
+
+            .nav-link:hover {
+                background-color: $fluo;
+                color: black;
+            }
+        }
+    }
+}
+
+.artist-home {
+    display: flex;
+
+    .left-artist-home {
+        background-color: $blue;
+        width: 40%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        p {
+            position: absolute;
+            font-size: 1.5em;
+        }
+
+        .star {
+            width: 100%;
+            max-height: 36em;
+        }
+    }
+
+    .right-artist-home {
+        background-color: $violet;
+        width: 60%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 2em;
+
+        ul {
+            list-style-type: none;
+            padding: 2em;
+            width: 100%;
+            columns: 2;
+            -webkit-columns: 2;
+            -moz-columns: 2;
+
+            li {
+                margin-bottom: 1em;
+                padding: 0.4em;
+                background-color: black;
+                text-align: center;
+                transition: 0.2s ease-in-out;
+
+                a {
+                    text-decoration: none;
+                    text-align: center;
+                    color: white;
+                    font-size: 1.5em;
+                    padding: 0.5em;
+                }
+            }
+
+            li:hover {
+                background-color: $pink;
+            }
+        }
+    }
+}
+
+.labels-home {
+    display: flex;
+    height: 16em;
+
+    .left-labels-home {
+        width: 40%;
+        background-color: $pink;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        p {
+            font-size: 1.5em;
+            border: 1px solid black;
+            width: 100%;
+            height: 100%;
+            border-radius: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+
+    .right-labels-home {
+        width: 60%;
+        background-color: $fluo;
+        display: flex;
+
+        a {
+            font-size: 1.5em;
+            border: 1px solid black;
+            width: 50%;
+            height: 100%;
+            border-radius: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: black;
+            text-decoration: none;
+            transition: 0.2s ease-in-out;
+        }
+
+        a:hover {
+            border: 1px solid black;
+            background-color: black;
+            color: white;
+        }
+    }
+}
+
+.contact-home {
+    display: flex;
+
+    .left-contact-home {
+        width: 40%;
+        display: flex;
+        background-color: black;
+        justify-content: center;
+        align-items: center;
+
+        p {
+            color: white;
+            font-size: 1.5em;
+            position: absolute;
+        }
+
+        .romb {
+            fill: $violet;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            svg {
+                max-height: 190em;
+            }
+        }
+    }
+
+    .right-contact-home {
+        width: 60%;
+        display: flex;
+        background-color: $violet;
+        justify-content: center;
+        align-items: center;
+
+        p {
+            color: white;
+            font-size: 1.5em;
+            padding: 2em;
+        }
+    }
+}
+
+.contact-home-bottom {
+    display: flex;
+
+    .contact-home-bottom-left {
+        background-color: $violet;
+        width: 40%;
+    }
+
+    .contact-home-bottom-right {
+        background-color: black;
+        width: 60%;
+
+        .container-contact {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+            p {
+                font-size: 1.5em;
+                color: white;
+                padding: 2em;
+                margin: 0;
+            }
+
+            button {
+                background-color: $violet;
+                min-width: 50px;
+                min-height: 50px;
+                color: white;
+                border-radius: 50%;
+                border: none;
+                margin: 2em;
+            }
+        }
+    }
+}
+
+.booking-home-top {
+    display: flex;
+
+    .booking-home-top-left {
+        width: 40%;
+        background-color: $blue;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        p {
+            font-size: 1.5em;
+            border: 1px solid black;
+            width: 100%;
+            height: 100%;
+            border-radius: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+
+    .booking-home-top-right {
+        width: 60%;
+        display: flex;
+        background-color: $mustard;
+        justify-content: flex-start;
+        align-items: center;
+
+        p {
+            color: black;
+            font-size: 1.5em;
+            padding: 2em;
+        }
+    }
+}
+
+.booking-home-bottom {
+    display: flex;
+
+    .booking-home-bottom-left {
+        width: 40%;
+        background-color: $mustard;
+        display: flex;
+
+        .checkboard {
+            width: 100%;
+            height: 100%;
+            background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='20' height='20' patternTransform='scale(7) rotate(0)'><rect x='0' y='0' width='100%' height='100%' fill='hsla(43, 100%, 49%, 1)'/><path d='M0 0h10v10H0z'  stroke-width='1' stroke='none' fill='hsla(259, 0%, 0%, 1)'/><path d='M10 10h10v10H10z'  stroke-width='1' stroke='none' fill='hsla(340, 0%, 0%, 1)'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>");
+            background-size: contain;
+        }
+    }
+
+    .booking-home-bottom-right {
+        width: 60%;
+        background-color: $pink;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 2em;
+
+        form {
+            width: 100%;
+
+            input,
+            select,
+            textarea {
+                background: none;
+                border: 1px solid white;
+                padding: 0.75em;
+                margin: 0.5em 0.25em;
+                color: white;
+                font-size: 1.5em;
+            }
+
+            ::placeholder {
+                color: white;
+                text-align: center;
+            }
+
+            .select-first {
+                display: flex;
+                select {
+                    width: 100%;
+                    text-align: center;
+                }
+            }
+
+            .date {
+                display: flex;
+
+                input {
+                    width: 100%;
+                }
+            }
+
+            .localization {
+                display: flex;
+                input {
+                    width: 100%;
+                }
+            }
+
+            .country {
+                display: flex;
+                input {
+                    width: 100%;
+                }
+            }
+
+            .size {
+                display: flex;
+                input {
+                    width: 100%;
+                }
+            }
+
+            .booker-name {
+                display: flex;
+                input {
+                    width: 100%;
+                }
+            }
+
+            .booker-contact {
+                display: flex;
+                input {
+                    width: 100%;
+                }
+            }
+
+            .other-text {
+                display: flex;
+                textarea {
+                    width: 100%;
+                    height: 3em;
+                }
+            }
+
+            .button {
+                display: flex;
+
+                button {
+                    border: none;
+                    background: $blue;
+                    color: black;
+                    width: 100%;
+                    padding: 1.5em 0.75em;
+                    margin: 0.5em 0.25em;
+                    cursor: pointer;
+                    font-size: 1.5em;
+                }
+
+                button:hover {
+                    background-color: black;
+                    color: white;
+                }
+            }
+        }
+    }
+}
+
+.newsletter-home {
+    display: flex;
+    .newsletter-left {
+        width: 40%;
+        display: flex;
+        background-color: $violet;
+        justify-content: center;
+        align-items: center;
+
+        p {
+            font-size: 1.5em;
+            color: white;
+            background-color: black;
+            border-radius: 100%;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+
+    .newsletter-right {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: black;
+        width: 60%;
+        padding: 2em 0;
+
+        .newsletter-form {
+            display: flex;
+            flex-direction: column;
+            padding: 2em;
+            width: 100%;
+
+            .newsletter-text {
+                width: 100%;
+                margin-bottom: 1em;
+
+                p {
+                    color: white;
+                    font-size: 1.5em;
+                    text-align: center;
+                }
+            }
+
+            .newsletter-mail {
+                input {
+                    background: none;
+                    border: 1px solid white;
+                    padding: 0.75em;
+                    margin: 0.5em 0.25em;
+                    color: white;
+                    width: 100%;
+                    font-size: 1.5em;
+                }
+
+                ::placeholder {
+                    color: rgb(52, 52, 52);
+                    text-align: center;
+                }
+            }
+
+            .register {
+                button {
+                    border: none;
+                    background: $violet;
+                    color: white;
+                    width: 100%;
+                    padding: 1.5em 0.75em;
+                    margin: 0.5em 0.25em;
+                    font-size: 1.5em;
+                }
+
+                button:hover {
+                    background-color: white;
+                    color: black;
+                }
+            }
+        }
+    }
+}
+
+.footer {
+    display: flex;
+
+    .logo-section {
+        background-color: $pink;
+        width: 30%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        img {
+            width: 75%;
+            padding: 1em;
+            margin: 1em;
+        }
+    }
+    .nav-links-section {
+        background-color: $fluo;
+        display: flex;
+        width: 70%;
+        justify-content: space-evenly;
+        align-items: center;
+        padding: 4em 2em;
+
+        .links {
+            width: 100%;
+            display: flex;
+            justify-content: space-evenly;
+
+            .nav-link {
+                color: black;
+                font-size: 1.5em;
+                text-decoration: none;
+            }
+
+            .nav-link:hover {
+                background-color: black;
+                color: white;
+            }
+        }
+    }
+}
+
+@media (max-width: $tablet) {
+    /// navbar
+
+    /// artists section
+    .artist-home {
+        .right-artist-home {
+            ul {
+                columns: 1;
+                -webkit-columns: 1;
+                -moz-columns: 1;
+            }
+        }
+    }
+}
+
+@media (max-width: $mobile) {
+    .navbar {
+        .logo-section {
+            width: 50%;
+        }
+        .nav-links-section {
+            display: flex;
+            width: 50%;
+            justify-content: center;
+            align-items: center;
+            padding: 4em 2em;
+
+            .links {
+                width: 100%;
+                display: none;
+                justify-content: space-evenly;
+
+                .nav-link {
+                    color: white;
+                    font-size: 1.5em;
+                    text-decoration: none;
+                }
+
+                .nav-link:hover {
+                    background-color: $fluo;
+                    color: black;
+                }
+            }
+        }
+    }
+
+    .artist-home {
+        display: flex;
+        flex-direction: column;
+
+        .left-artist-home {
+            width: 100%;
+            p {
+                font-size: 1.25em;
+            }
+        }
+
+        .right-artist-home {
+            width: 100%;
+            padding: 0em;
+
+            ul {
+                padding: 1.25em;
+
+                li {
+                    margin-bottom: 1em;
+                    padding: 0.4em;
+
+                    a {
+                        font-size: 1.25em;
+                        padding: 1em;
+                    }
+                }
+            }
+        }
+    }
+
+    .labels-home {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+
+        .left-labels-home {
+            width: 100%;
+
+            p {
+                font-size: 1.25em;
+                padding: 3em;
+                border: 0.75px solid black;
+            }
+        }
+
+        .right-labels-home {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+
+            a {
+                font-size: 1.25em;
+                width: 100%;
+                height: 100%;
+                padding: 3em;
+                border: 0.75px solid black;
+            }
+
+            a:hover {
+                border: 0.75px solid black;
+                background-color: black;
+                color: white;
+            }
+        }
+    }
+
+    .contact-home {
+        display: flex;
+        flex-direction: column;
+
+        .left-contact-home {
+            width: 100%;
+
+            p {
+                font-size: 1.25em;
+            }
+        }
+
+        .right-contact-home {
+            width: 100%;
+
+            p {
+                font-size: 1.25em;
+                padding: 1em;
+            }
+        }
+    }
+
+    .contact-home-bottom {
+        display: flex;
+
+        .contact-home-bottom-left {
+            display: none;
+        }
+
+        .contact-home-bottom-right {
+            width: 100%;
+
+            .container-contact {
+                p {
+                    font-size: 1.25em;
+                    padding: 1em;
+                    margin: 0;
+                }
+            }
+        }
+    }
+
+    .booking-home-top {
+        display: flex;
+        flex-direction: column;
+
+        .booking-home-top-left {
+            width: 100%;
+
+            p {
+                font-size: 1.25em;
+                border: 1px solid black;
+                width: 100%;
+                height: 100%;
+                border: 0.75px solid black;
+                padding: 4em;
+            }
+        }
+
+        .booking-home-top-right {
+            width: 100%;
+            display: flex;
+            background-color: $mustard;
+            justify-content: flex-start;
+            align-items: center;
+
+            p {
+                color: black;
+                font-size: 1.25em;
+                padding: 1em;
+            }
+        }
+    }
+
+    .booking-home-bottom {
+        display: flex;
+        flex-direction: column;
+
+        .booking-home-bottom-left {
+            display: none;
+        }
+
+        .booking-home-bottom-right {
+            width: 100%;
+            padding: 1em;
+
+            form {
+                width: 100%;
+
+                input,
+                select,
+                textarea {
+                    padding: 0.75em;
+                    margin: 0.5em 0.25em;
+                    font-size: 1.25em;
+                }
+
+                .button {
+                    display: flex;
+
+                    button {
+                        padding: 1.5em 0.75em;
+                        margin: 0.5em 0.25em;
+                        font-size: 1.25em;
+                    }
+                }
+            }
+        }
+    }
+
+    .newsletter-home {
+        display: flex;
+        flex-direction: column;
+
+        .newsletter-left {
+            width: 100%;
+
+            p {
+                font-size: 1.25em;
+                padding: 4em;
+            }
+        }
+
+        .newsletter-right {
+            width: 100%;
+            padding: 2em 0;
+
+            .newsletter-form {
+                display: flex;
+                flex-direction: column;
+                padding: 2em;
+                width: 100%;
+
+                .newsletter-text {
+                    width: 100%;
+                    margin-bottom: 1em;
+
+                    p {
+                        font-size: 1.25em;
+                    }
+                }
+
+                .newsletter-mail {
+                    input {
+                        font-size: 1.25em;
+                    }
+                }
+
+                .register {
+                    button {
+                        font-size: 1.25em;
+                    }
+                }
+            }
+        }
+    }
+
+    .footer {
+        display: flex;
+
+        .logo-section {
+            background-color: $pink;
+            width: 50%;
+        }
+        .nav-links-section {
+            width: 50%;
+
+            .links {
+                display: none;
+            }
+        }
+    }
+}
