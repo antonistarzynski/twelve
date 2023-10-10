@@ -14,21 +14,21 @@
 .artists-section {
   width: 100%;
   height: auto;
+  padding: 1em;
   background-color: #7943e3;
-  display: flex;
-  justify-content: stretch;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 1.5em;
+  row-gap: 1.5em;
 }
 .artists-section .artist-card {
-  max-width: 30%;
   height: 400px;
-  margin: 1.25em;
   background-color: black;
   display: flex;
   flex-direction: column;
+  justify-content: stretch;
 }
 .artists-section .artist-card .artist-img {
-  background-image: url("../assets/profile_foto.jpeg");
   background-position: center;
   background-size: cover;
   width: 100%;
@@ -63,6 +63,15 @@
   background-color: #c8ff6e;
   color: black;
   width: 40%;
+  padding: 0.5em;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.artists-section .artist-card .artist-info .info-bottom .see-more:hover {
+  background-color: #7943e3;
+  color: white;
 }
 .artists-section .artist-card .artist-info .info-bottom .socials {
   width: auto;

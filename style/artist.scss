@@ -1,0 +1,177 @@
+//// Colors
+
+$fluo: #c8ff6e;
+$pink: #ff4294;
+$blue: #00aeff;
+$violet: #7943e3;
+$mustard: #f8b100;
+
+//// Breakpoint
+
+$tablet: 825px;
+$mobile: 600px;
+
+.single-artist-section {
+    background-color: $violet;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+    width: 100%;
+
+    .single-artist-section-top {
+        display: flex;
+        width: 100%;
+
+        .avatar {
+            width: 50%;
+            height: 450px;
+            display: flex;
+            flex-direction: column;
+
+            .img {
+                //background-image: url("../assets/artists/A45.jpeg");
+                background-size: cover;
+                background-position: center;
+                width: 100%;
+                height: 350px;
+            }
+
+            .name {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 100px;
+                background-color: $fluo;
+
+                h1 {
+                    font-size: 3em;
+                }
+
+                .short {
+                    display: none;
+                }
+            }
+        }
+
+        .soundcloud {
+            width: 50%;
+        }
+    }
+
+    .single-artist-section-bottom {
+        display: flex;
+        width: 100%;
+        //background-color: red;
+        margin-top: -0.25em;
+
+        .bio {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 50%;
+            background-color: black;
+            padding: 1em;
+
+            p {
+                color: white;
+            }
+        }
+
+        .action {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 50%;
+            background-color: $fluo;
+            padding: 5em 0;
+            a {
+                text-decoration: none;
+                background-color: black;
+                color: $fluo;
+                width: 70%;
+                height: 70px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin: 0.75em;
+            }
+        }
+    }
+
+    .artist-navigation {
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+
+        .nav-btn {
+            background-color: $fluo;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 1em 0;
+
+            a {
+                text-decoration: none;
+                padding: 1.25em 1.25em;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+                svg {
+                    width: 30px;
+                    height: 10px;
+                    //background-color: pink;
+                    margin: 0 0.5em;
+
+                    path {
+                        fill: rgb(0, 0, 0);
+                    }
+                }
+
+                p {
+                    color: rgb(0, 0, 0);
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: $tablet) {
+    .single-artist-section {
+        .single-artist-section-top {
+            flex-direction: column;
+            .avatar {
+                width: 100%;
+            }
+            .soundcloud {
+                width: 100%;
+            }
+        }
+    }
+}
+
+@media (max-width: $mobile) {
+    .single-artist-section {
+        .single-artist-section-bottom {
+            flex-direction: column;
+
+            .bio {
+                width: 100%;
+                padding: 3em 2em;
+            }
+
+            .action {
+                width: 100%;
+            }
+        }
+
+        .artist-navigation {
+            .home {
+                display: none;
+            }
+        }
+    }
+}
