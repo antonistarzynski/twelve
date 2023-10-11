@@ -193,3 +193,12 @@ for (let label of labels) {
     div.appendChild(newLabel);
 }
 
+
+
+/// labels section
+/// contact & booking(?) section
+/// clean up home page
+/// favicon
+/// artits navigation (left & home $ right)
+/// dropbox, presspacks
+/// send request ? mailto
