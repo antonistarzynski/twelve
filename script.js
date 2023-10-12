@@ -6,32 +6,32 @@ const artists = [
         description: `Getting inspiration from Jeff Mills’, James Ruskin’s and Oscar Mulero’s particular sound for his latest creations, he makes the utmost use of samples of TR909 and of ‘syncopated melodies’ typical of this genre.`
 
     },
-    {
-        name: 'Aikon',
-        short: 'aikon.html',
-        pic: 'aikon.jpeg',
-        description: `Ukranian producer AIKON has been making waves with a steady stream of acclaimed releases, dropping records on labels such as Diynamic, Multinotes, Disco Halal, Exploited & Monaberry. His music is a haunting, hypnotic mix of dark electro, breakbeats and melodic techno - with a slight twist of a little italo & acid in there.
-        Solomun, Dixon, AME, Pete Tong and Keinemusik are regular supporters of his tracks and are usually the first ones to test his new demos to a large audience. This has led to new song collaborations with Re.You , Pongo and Sobek. Aikon tracks break records top charts beatport and now Aikon is in the top 10 Indie Dance artists beatport in this season.
-        Labels : Diynamic , TAU , Multinotes , Renaissance , Monaberry , Disco Halal , Exploited.`
-    },
-    {
-        name: 'Aldebaran',
-        short: 'aldebaran.html',
-        pic: 'aldebaran.jpeg',
-        description: `Aldebaran is a musical project by Michele Di Martino, roman dj and producer since the last years of 2000's. Came out from the mixture of electronic music and visual arts, it's just the point where imagination and feels are ﬁxed and transformed into music.
+    // {
+    //     name: 'Aikon',
+    //     short: 'aikon.html',
+    //     pic: 'aikon.jpeg',
+    //     description: `Ukranian producer AIKON has been making waves with a steady stream of acclaimed releases, dropping records on labels such as Diynamic, Multinotes, Disco Halal, Exploited & Monaberry. His music is a haunting, hypnotic mix of dark electro, breakbeats and melodic techno - with a slight twist of a little italo & acid in there.
+    //     Solomun, Dixon, AME, Pete Tong and Keinemusik are regular supporters of his tracks and are usually the first ones to test his new demos to a large audience. This has led to new song collaborations with Re.You , Pongo and Sobek. Aikon tracks break records top charts beatport and now Aikon is in the top 10 Indie Dance artists beatport in this season.
+    //     Labels : Diynamic , TAU , Multinotes , Renaissance , Monaberry , Disco Halal , Exploited.`
+    // },
+    // {
+    //     name: 'Aldebaran',
+    //     short: 'aldebaran.html',
+    //     pic: 'aldebaran.jpeg',
+    //     description: `Aldebaran is a musical project by Michele Di Martino, roman dj and producer since the last years of 2000's. Came out from the mixture of electronic music and visual arts, it's just the point where imagination and feels are ﬁxed and transformed into music.
 
-        Inspired from the Taurus constellation and the wedding beetween black and red shades, Pace & Tempesta is his ﬁrst EP produced for Multinotes.`
+    //     Inspired from the Taurus constellation and the wedding beetween black and red shades, Pace & Tempesta is his ﬁrst EP produced for Multinotes.`
 
-    },
-    {
-        name: 'Alex Flitsch',
-        short: 'alexflitsch.html',
-        pic: 'alexflitsch.jpeg',
-        description: `Born in the city of Pforzheim in the 70ies, Alex Flitsch was the youngest son of a traditional jeweller family. No one would have thought, that he would one day be travelling the world as a DJ, packed with records, nor that he would be running any successful electronic dance labels! But, that’s the way the cookie crumble. Alex had always been a music fanatic, and when techno hit the scene in the early 90ies, there simply was no way back.
+    // },
+    // {
+    //     name: 'Alex Flitsch',
+    //     short: 'alexflitsch.html',
+    //     pic: 'alexflitsch.jpeg',
+    //     description: `Born in the city of Pforzheim in the 70ies, Alex Flitsch was the youngest son of a traditional jeweller family. No one would have thought, that he would one day be travelling the world as a DJ, packed with records, nor that he would be running any successful electronic dance labels! But, that’s the way the cookie crumble. Alex had always been a music fanatic, and when techno hit the scene in the early 90ies, there simply was no way back.
 
-        Being an enthusiastic collector of vinyl since the early nineties, he had his first DJ-gig in 1994. In 2005 he founded the well-known Connaisseur Recordings label together with Martin Henkel and his wife Hilary in Frankfurt/Main. Several very successful releases on the label took Alex’s DJ career to another level. He has already rocked places like Tokyo, London, Mexico City, Moscow, Amsterdam, Stockholm, Vienna, Zürich, Bucharest, Offenbach and of course Berlin just to name a few.`
+    //     Being an enthusiastic collector of vinyl since the early nineties, he had his first DJ-gig in 1994. In 2005 he founded the well-known Connaisseur Recordings label together with Martin Henkel and his wife Hilary in Frankfurt/Main. Several very successful releases on the label took Alex’s DJ career to another level. He has already rocked places like Tokyo, London, Mexico City, Moscow, Amsterdam, Stockholm, Vienna, Zürich, Bucharest, Offenbach and of course Berlin just to name a few.`
 
-    },
+    // },
     {
         name: 'Andy Bros',
         short: 'andybros.html',
@@ -71,7 +71,7 @@ const artists = [
 
     },
     {
-        name: 'Enzo Eliaenzo',
+        name: 'Enzo Elia',
         short: 'enzoelia.html',
         pic: 'enzoelia.jpeg',
         description: `Enzo Elia has crafted his own style of Djing and producing that has taken him all over Europe as well as to Tokyo and Tel Aviv.
@@ -87,13 +87,13 @@ const artists = [
         pic: 'hatelove.jpeg',
         description: `HATELOVE-The Warsaw-based producer and DJ is one of the most exciting emerging acts right now, whose productions have been taking dance floors by storm. He represents the industrial side of club electronics and his raw, dark, post-metal aesthetics won him a devoted group of supporters among hard techno fans and he's released his debiut EP on SNTS Sacred Court label.`
     },
-    {
-        name: 'Human Machine',
-        short: 'humanmachine.html',
-        pic: 'humanmachine.jpeg',
-        description: `Human Machine is a musical project created by four sicilian djs and friends.
-        Mixing the 4 different musical roots and skills into one new identity, they have a simple rule: to make music in order to dance. After their debut ep ‘Black Mechanism’ on Engrave Ltd they released on Connaisseur, Exit Strategy and Diynamic Music.`
-    },
+    // {
+    //     name: 'Human Machine',
+    //     short: 'humanmachine.html',
+    //     pic: 'humanmachine.jpeg',
+    //     description: `Human Machine is a musical project created by four sicilian djs and friends.
+    //     Mixing the 4 different musical roots and skills into one new identity, they have a simple rule: to make music in order to dance. After their debut ep ‘Black Mechanism’ on Engrave Ltd they released on Connaisseur, Exit Strategy and Diynamic Music.`
+    // },
     {
         name: 'Kate Stein',
         short: 'katestein.html',
@@ -132,15 +132,15 @@ const artists = [
 
         Over the past few years, Nico Morano has collaborated with the likes of Jonas Saalbach, Radeckt and Tom Zeta and saw his effervescent originals remixed by internationally acclaimed peers such as Patrice Bäumel, Eelke Kleijn, Sabb, Nandu, Biesmans and Moonwalk. And as he persistently skips over the borders of his home country, he continues to build out his brand on an international scale through both his standout creations and the infectious sound bites coming from his own imprints. All in all the future is looking bright, as in the next few months Nico Morano will be dropping a lot of new tracks & remixes!`
     },
-    {
-        name: 'Olderic',
-        short: 'olderic.html',
-        pic: 'olderic.jpeg',
-        description: `Enrico De Vecchi, better known as Olderic, is a Venice based dj, producer, parties organizer and vinyls collector since early 2000s.
-        The sum of events have conducted his career, between 2009 and 2012, inside a thriving tech groovy age, playing all around Europe and releasing on some of the most influential labels of that period, like Area Remote, Terminal M and Saved.
-        His first love, the one for melodies and armonies, rised up at the end of that cycle, coming stronger than ever and guiding him to a new brighting music scene, giving him the force to release music on labels like Connaisseur, Compost, Siamese, Get Physical, Moodmusic, Embassy of Music, Best Works and Innervisions, as Olderic and as Stereocalypse, the duo project created together with the studio pioneer Andrea Doria.
-        Co-founder of Multinotes together with Lehar and Musumeci`
-    },
+    // {
+    //     name: 'Olderic',
+    //     short: 'olderic.html',
+    //     pic: 'olderic.jpeg',
+    //     description: `Enrico De Vecchi, better known as Olderic, is a Venice based dj, producer, parties organizer and vinyls collector since early 2000s.
+    //     The sum of events have conducted his career, between 2009 and 2012, inside a thriving tech groovy age, playing all around Europe and releasing on some of the most influential labels of that period, like Area Remote, Terminal M and Saved.
+    //     His first love, the one for melodies and armonies, rised up at the end of that cycle, coming stronger than ever and guiding him to a new brighting music scene, giving him the force to release music on labels like Connaisseur, Compost, Siamese, Get Physical, Moodmusic, Embassy of Music, Best Works and Innervisions, as Olderic and as Stereocalypse, the duo project created together with the studio pioneer Andrea Doria.
+    //     Co-founder of Multinotes together with Lehar and Musumeci`
+    // },
     {
         name: 'Phunkadelica',
         short: 'phunkadelica.html',
@@ -195,7 +195,6 @@ for (let label of labels) {
 
 
 
-/// booking(?) section
 /// favicon
 /// artits navigation (left & home $ right)
 /// dropbox, presspacks
