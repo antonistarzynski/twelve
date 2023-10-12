@@ -195,9 +195,7 @@ for (let label of labels) {
 
 
 
-/// labels section
-/// contact & booking(?) section
-/// clean up home page
+/// booking(?) section
 /// favicon
 /// artits navigation (left & home $ right)
 /// dropbox, presspacks
