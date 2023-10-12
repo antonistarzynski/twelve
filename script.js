@@ -195,7 +195,6 @@ for (let label of labels) {
 
 
 
-/// favicon
-/// artits navigation (left & home $ right)
-/// dropbox, presspacks
-/// send request ? mailto
+
+
+
