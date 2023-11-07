@@ -6,6 +6,16 @@ const artists = [
         description: `Getting inspiration from Jeff Mills’, James Ruskin’s and Oscar Mulero’s particular sound for his latest creations, he makes the utmost use of samples of TR909 and of ‘syncopated melodies’ typical of this genre.`
 
     },
+
+    {
+        name: 'Alican',
+        short: 'alican.html',
+        pic: 'alican.jpeg',
+        description: `As one of the key figureheads in Istanbul electronic music culture Alican has been a driving force behind the growth of the city’s scene. Compelled to share his deep passion for electronic music over the past two decades, his unwavering spirit and dedication to nurturing a healthy club culture has led to the formation of a mini empire that includes a successful record label and affiliated events wing; Isolate. As a selector and producer, he has established himself as a highly skilled, intuitive artist who blends emotionally charged atmospheres with deeply hypnotic rhythms and consistently positive energy. A forefather of Turkey’s fertile contemporary electronic music culture, Alican holds a lofty position in his home nation, while maintaining a humble outlook. Almost 20 years since he first became immersed in the scene, he continues to work tirelessly to support the music he loves.
+
+        Modest, grounded and deeply committed to electronic music, Alican is one of the most influential figures in the Turkish electronic music scene, though he would never say that himself. An artist who is constantly seeking out pastures new, renewing himself and driven by unassuming goals, Alican never lets his ego outgrow the music. It’s this authenticity - pure, untainted - that has propelled him to his influential status and earned him universal respect. Still driven by the same genuine energy that spurred him on to experiment with electronic sounds as a teen, Alican continues to stay true to his scene, and himself, with heartfelt commitment…`
+
+    },
     // {
     //     name: 'Aikon',
     //     short: 'aikon.html',
@@ -57,6 +67,13 @@ const artists = [
         Once the Barcelona scene took flight, Cipy was expressing himself in the best clubs of city and his sound has been welcomed also in many club around the globe..
         
         His productions following his musical instincts, and find a perfect harmony between analog & digital sounds, irresistable grooves accompanied by entrancing melodies, he has released on some of the most known underground dance labels ! As the co-founder of the project Haiku 575, Cipy is planning to produce more show and present his vision of modern dance music around the globe!`
+
+    },
+    {
+        name: 'Colossio',
+        short: 'colossio.html',
+        pic: 'colossio.jpeg',
+        description: `Fernando Luna is a Mexican DJ and producer from Monterrey, Nuevo Leon. Some of his influences include styles like Rock, Pop and Mexican Folk, all fused with analog and digital electronic music genres. After the great success of his releases "Moto EP" and "Inocencia EP" with the Mexican label Duro, Colossio has received the support of international DJs including Dixon, Áme and Echonomist to name a few, being "Advertencia" and the remix of Domink Marz to "Inocencia", the most outstanding tracks that were played by these renowned DJs in different parties around the world such as Space Miami, Zamna Tulum and even in a Dixon's streaming presented by Junction 2 by Beatport at the TV Tower in Berlin. He started 2021 making his debut on Toto Chiavetta's label, "Borders of Flight", participating in his annual VA with a collaboration alongside Sobek titled "Tatras" released exclusively on vinyl via Muting The Noise. That same year he also collaborated with Sobek on the release of his EP called "Fragmentado" on the Scatcity label, which includes a remix by Skatman that was released digitally and on vinyl. In 2022 he released an EP with Dominik Marz called "Erate" which will be released on Âme's label, Exit Strategy. He has remixed artists such as Luke Garcia & Th3 Oth3r, Ivory, Did Virgo, among others. He has also performed in some of the best clubs in Mexico including Topaz Deluxe, Bar Americas, Mia, Funk, Crania, Casa Cobra, Bar Oriente, and in European countries like Madrid, Barcelona, Paris, Tel Aviv, Marseille, Lyon, Lisboa, and Berlin, as well as on radio shows such as Kiosk Radio in Belgium and Redlight Radio in Amsterdam. In 2023 I will release an EP with Luke Garcia called "Let Go" which will be released on Engrave LTD with 2 remixes by the italian producer Musumeci. By the end of 2023, 2 releases are expected, the first a song on Innervisions' Secret Weapons and an EP on the Canadian label Microcastle. His versatility, approach and vision on what is the new Mexican sound is a clear example of the new wave of producers in that country that has a high caliber and the potential to become one of the most outstanding artists of his generation.`
 
     },
     {
