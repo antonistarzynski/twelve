@@ -7,6 +7,14 @@ const artists = [
 
     },
     {
+        name: 'Aikon',
+        short: 'aikon.html',
+        pic: 'aikon.jpeg',
+        description: `Ukranian producer AIKON has been making waves with a steady stream of acclaimed releases, dropping records on labels such as Diynamic, Multinotes, Disco Halal, Exploited & Monaberry. His music is a haunting, hypnotic mix of dark electro, breakbeats and melodic techno - with a slight twist of a little italo & acid in there.
+        Solomun, Dixon, AME, Pete Tong and Keinemusik are regular supporters of his tracks and are usually the first ones to test his new demos to a large audience. This has led to new song collaborations with Re.You , Pongo and Sobek. Aikon tracks break records top charts beatport and now Aikon is in the top 10 Indie Dance artists beatport in this season.
+        Labels : Diynamic , TAU , Multinotes , Renaissance , Monaberry , Disco Halal , Exploited.`
+    },
+    {
         name: 'Alican',
         short: 'alican.html',
         pic: 'alican.jpeg',
