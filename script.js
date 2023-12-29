@@ -6,6 +6,23 @@ const artists = [
         description: `Getting inspiration from Jeff Mills’, James Ruskin’s and Oscar Mulero’s particular sound for his latest creations, he makes the utmost use of samples of TR909 and of ‘syncopated melodies’ typical of this genre.`
 
     },
+    {
+        name: 'AFFKT',
+        short: 'affkt.html',
+        pic: 'affkt.jpeg',
+        description: `Hailing from the Spanish mainland is a sound that’s resonating globally thanks to a select choice of producers that have been able to create their own path after years of honest and competent work. A notable character from that sub-culture of game changers is Marc Martinez Nadal, aka AFFKT, who consecrated a music career and has been a driving force behind a vivid & empowering sound that is refined by his drive for perfection. He feels deeply in communion with sounds that range from the most energetic hyper-glossy techno to the most detailed and innovative indie-electronica.
+
+        Having worked on coining the sound of this alias since 2008, it has been a plethora of sound, place, person & culture that has provided a platform for AFFKT to experiment with his output. Both as an experienced music producer of his own projects and as a demanded remixer. Still fresh is the mind-bending rework he made for GusGus’ ‘Simple Tuesday’. And what about those created for the likes of Oliver Koletzki, Fejká, Mason or Bufi to name just a few. Dynamite!
+        
+        The Valencian has never stopped serving huge electronic crossover masterpieces that derive into the many sub-genres of music via key imprints such as Pets recordings, Multinotes, Mobilee, Last Night On Earth or Stil Vor Talent and his very own Sincopat label, and expressing versatility digging deep into his influences of sounds by delivering heart-stopping, engaging techno on the likes of Octopus, Noir Music, Suara… AFFKT is committed to a life of synthesis and this is what sets himself apart from a comparatively shallow glance at dance music.
+        
+        Within its versatility is that of working with other musicians. As a result, the fantastic teamwork generated with the vocalist and multi-instrumentalist Sutja Gutierrez. This synergy can be discovered in their just amazing live performances.
+        
+        Once described as a ‘Son of a Thousand Sounds’ – precisely the title he chose later for his highly acclaimed, even award-winning LP released in 2016. Another remarkable evidence of his talent, creativity and open-mindedness is the ‘The Big Picture’, his latest album to date, a tour de force released on the renowned Mobilee imprint.
+        
+        AFFKT perfectly manages to thrill us as well as tap into our very core. His music can be enjoyed while dancing, as well as serving as emotional therapy.`
+
+    },
 
     {
         name: 'Aikon',
