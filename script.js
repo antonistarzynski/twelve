@@ -137,21 +137,21 @@ const artists = [
     //     description: `Human Machine is a musical project created by four sicilian djs and friends.
     //     Mixing the 4 different musical roots and skills into one new identity, they have a simple rule: to make music in order to dance. After their debut ep ‘Black Mechanism’ on Engrave Ltd they released on Connaisseur, Exit Strategy and Diynamic Music.`
     // },
-    {
-        name: 'Kate Stein',
-        short: 'katestein.html',
-        pic: 'katestein.jpeg',
-        description: `A nascent purveyor of house and cutting-edge disko in all its forms, DJ/producer and visual artist Kate Stein is grooving her way into the good graces of underground circles everywhere with an experiential sound that's all her own. Australian born, Stein first entered the world of art via set design, meticulously crafting event spaces with an eye for the elegant and the mischievous. Moving to New York in 2012, years of developing her unmistakable style as a spatial designer, her skills with composition, color, and ambiance have coagulated into a raw creative force she manipulates into any form she desires.
+    // {
+    //     name: 'Kate Stein',
+    //     short: 'katestein.html',
+    //     pic: 'katestein.jpeg',
+    //     description: `A nascent purveyor of house and cutting-edge disko in all its forms, DJ/producer and visual artist Kate Stein is grooving her way into the good graces of underground circles everywhere with an experiential sound that's all her own. Australian born, Stein first entered the world of art via set design, meticulously crafting event spaces with an eye for the elegant and the mischievous. Moving to New York in 2012, years of developing her unmistakable style as a spatial designer, her skills with composition, color, and ambiance have coagulated into a raw creative force she manipulates into any form she desires.
 
-        A confident performer who has appeared at House of Yes, Mayan Warrior and Cityfox Experience at Brooklyn Mirage, among many other notorious spots, Kate is also carving out her own lane with her productions. Stein channels that force into aggressive rhythms, heavy percussion, and arcane melodies. Releasing her debut Scenic Byway and sophomore Mystic Saddle Ranch EPs in 2021 via Roam Recordings and Playground Records — featuring remixes from the likes of Perel, Zillas On Acid, Balam, and Autarkic — selectors worldwide continue to take notice of Stein's hypnotic pull. July 2022 has her third EP released on TAU, with the Death Stocked EP, her debut with Adana Twins’ label. The EP boasts a bumper selection of reworks from Curses, Zombies in Miami and Leonor.
-        
-        With audio landscapes meant to inspire joviality and bring about unexpected feelings, this is not the music of pure escapism. This is the music of revelation—opening space within to explore the nebulous reaches of yourself.
-        
-        In the eyes and ears of Stein, these sounds paint the pictures of New York City's bustling streets and the outlying deserts around Los Angeles, the two metropolises she currently calls home. Within these concrete jungles laid opposite one another, every environment which Stein wishes
-        to fill with pulsating frequencies exists. Pop-ups. Niche festivals. Places where someone can fully express their inner-child.
-        
-        With Kate Stein as a guide, you won't just hear that inimitable contrast. Instead, it will appear before your very eyes and envelop your whole body. Keep an eye on this rocket: with a few more releases to come in 2023, her dynamic and fun approach to dance floor soundscapes is in full bloom.`
-    },
+    //     A confident performer who has appeared at House of Yes, Mayan Warrior and Cityfox Experience at Brooklyn Mirage, among many other notorious spots, Kate is also carving out her own lane with her productions. Stein channels that force into aggressive rhythms, heavy percussion, and arcane melodies. Releasing her debut Scenic Byway and sophomore Mystic Saddle Ranch EPs in 2021 via Roam Recordings and Playground Records — featuring remixes from the likes of Perel, Zillas On Acid, Balam, and Autarkic — selectors worldwide continue to take notice of Stein's hypnotic pull. July 2022 has her third EP released on TAU, with the Death Stocked EP, her debut with Adana Twins’ label. The EP boasts a bumper selection of reworks from Curses, Zombies in Miami and Leonor.
+
+    //     With audio landscapes meant to inspire joviality and bring about unexpected feelings, this is not the music of pure escapism. This is the music of revelation—opening space within to explore the nebulous reaches of yourself.
+
+    //     In the eyes and ears of Stein, these sounds paint the pictures of New York City's bustling streets and the outlying deserts around Los Angeles, the two metropolises she currently calls home. Within these concrete jungles laid opposite one another, every environment which Stein wishes
+    //     to fill with pulsating frequencies exists. Pop-ups. Niche festivals. Places where someone can fully express their inner-child.
+
+    //     With Kate Stein as a guide, you won't just hear that inimitable contrast. Instead, it will appear before your very eyes and envelop your whole body. Keep an eye on this rocket: with a few more releases to come in 2023, her dynamic and fun approach to dance floor soundscapes is in full bloom.`
+    // },
     {
         name: 'Mala Ika',
         short: 'malaika.html',
@@ -198,6 +198,12 @@ const artists = [
         short: 'privatepress.html',
         pic: 'privatepress.jpeg',
         description: `The Warsaw based duo Private Press focusses on producing high energy and dubbed out techno cuts. They delivered multiple EP’s and singles for labels such as Rekids, Indigo Aare, Hardgroove and Of Paradise. Their latest material was featured in Cyberpunk 2077 game and Netflix anime series Edgerunners.`
+    },
+    {
+        name: 'Way Of Thinking',
+        short: 'wayofthinking.html',
+        pic: 'wayofthinking.jpeg',
+        description: `Way of Thinking is the project of Álvaro Mesa, one of the most relevant and promising figures in the south of Spain who, after 16 years with another nickname, decided to head up this project. In just two year she has been in the best clubs inSpain, Mexico and cities such Berlin, London, Miami, Los Angeles or New York among many others. His qualities combine perfectly behind the mixer and in studio work. His soul and identity are the enveloping melodies and atmospheres without forgetting the vocal with resounding drums, always betting on the different, the elegant and the unique, always dynamizing with freshness. Without typecasting, he shows in each of his sets unreleased material where he tries to tell a story wherever he goes.After being this past year very focused on the studio, as long as the gigs allowed him, he has signed several releases in labels like Multinotes, MoBlack or Get Physical.At the same time he is Co-Owner atSun and Snow Weekend, in charge of elaborating the musical history of the event celebrated every year in the mountains of Sierra Nevada in Spain every April.`
     },
 
 ];
