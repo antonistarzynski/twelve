@@ -124,12 +124,12 @@ const artists = [
         His music productions can be found on labels Free Range, Golf Channel, Engrave, Compost Records, Black Pearl, Hell Yeah Recordings and last but not least on the mysterious Re-edit label.`
 
     },
-    {
-        name: 'Hatelove',
-        short: 'hatelove.html',
-        pic: 'hatelove.jpeg',
-        description: `HATELOVE-The Warsaw-based producer and DJ is one of the most exciting emerging acts right now, whose productions have been taking dance floors by storm. He represents the industrial side of club electronics and his raw, dark, post-metal aesthetics won him a devoted group of supporters among hard techno fans and he's released his debiut EP on SNTS Sacred Court label.`
-    },
+    // {
+    //     name: 'Hatelove',
+    //     short: 'hatelove.html',
+    //     pic: 'hatelove.jpeg',
+    //     description: `HATELOVE-The Warsaw-based producer and DJ is one of the most exciting emerging acts right now, whose productions have been taking dance floors by storm. He represents the industrial side of club electronics and his raw, dark, post-metal aesthetics won him a devoted group of supporters among hard techno fans and he's released his debiut EP on SNTS Sacred Court label.`
+    // },
     // {
     //     name: 'Human Machine',
     //     short: 'humanmachine.html',
@@ -163,17 +163,13 @@ const artists = [
         name: 'Musumeci',
         short: 'musumeci.html',
         pic: 'musumeci.jpeg',
-        description: `Musumeci is a musical project by Mauro Di Martino, sicilian dj and producer since late 80s. ‘The Gemini Project’ album on his own label Engrave Ltd has put Musumeci on the map.
-
-        His music appears on labels like Aeon, Bedrock, Connaisseur, Compost Black Label, Diynamic Music, My Favorite Robot and OFF Recordings. Musumeci is also member of Human Machine’s combo and runs The Sound Of Connaisseur’s radio show on Ibiza Global Radio alongside Lehar and Olderic.`
+        description: `Musumeci is a musical project by Mauro Di Martino, sicilian dj and producer since late 80s. In the last 10 Years with his over 200 productions between original tracks and remixes he appeared on labels like Bedrock, Connaisseur, Compost Black Label, Correspondant, Diynamic Music, Future Disco, Innervisions, MoBlack, Kompakt, Permanent Vacation, Toy Tonics, Watergate and many others, did mixtapes for Cicrocolo, Transitions, BBC Hot Mix etc. Musumeci is also owner of Engrave Ltd, Multinotes Recordings & Buttress Records. `
     },
     {
         name: 'Nico Morano',
         short: 'nicomorano.html',
         pic: 'nicomorano.jpeg',
-        description: `Nico Morano is a name synonymous with melodic energy, which seeps through his DJ sets, his commendable productions and remixes, and his own Ontourage Music label and parties. For quite a few years now, the sound of Nico Morano is turning heads as one of the most sophisticated ones in Belgium and beyond. Through reputable releases on DAYS like NIGHTS, Selador, Kattermukke, Dantze and his own Ontourage Music and Atmosphere Records, the Belgian DJ, producer and label boss has been cultivating a unique blend of deep, melodic house with a strong emotional touch, resulting in more than a hundred gigs in Belgium alone, from shows at highly respected clubs such as Ampère, Fuse and Kompass Klub to his own Nico Morano & Friends stage at Paradise City Festival and Tomorrowland.
-
-        Over the past few years, Nico Morano has collaborated with the likes of Jonas Saalbach, Radeckt and Tom Zeta and saw his effervescent originals remixed by internationally acclaimed peers such as Patrice Bäumel, Eelke Kleijn, Sabb, Nandu, Biesmans and Moonwalk. And as he persistently skips over the borders of his home country, he continues to build out his brand on an international scale through both his standout creations and the infectious sound bites coming from his own imprints. All in all the future is looking bright, as in the next few months Nico Morano will be dropping a lot of new tracks & remixes!`
+        description: `After more than two decades of gigs, Nico Morano’s energy has captured the hearts of melodic dance enthusiasts worldwide. From his own Ontourage Music label and events to his impressive stage hostings at Tomorrowland and Paradise City Festival, Nico's signature sound embodies the colorful flair that today's club scene often lacks. Think: harmonic melodies with an organic and progressive spirit often infused with the vibrant tints of italo or deep house. Happy vibes all over the place!`
     },
     // {
     //     name: 'Olderic',
