@@ -66,21 +66,21 @@ const artists = [
     //     Being an enthusiastic collector of vinyl since the early nineties, he had his first DJ-gig in 1994. In 2005 he founded the well-known Connaisseur Recordings label together with Martin Henkel and his wife Hilary in Frankfurt/Main. Several very successful releases on the label took Alex’s DJ career to another level. He has already rocked places like Tokyo, London, Mexico City, Moscow, Amsterdam, Stockholm, Vienna, Zürich, Bucharest, Offenbach and of course Berlin just to name a few.`
 
     // },
-    {
-        name: 'Andy Bros',
-        short: 'andybros.html',
-        pic: 'andybros.jpeg',
-        description: `Andy Bros was born in 1987. Since his earliest youth he has been in touch with music thanks to his family. In 2001 he started DJ'ing, which soon became his passion. Over the years he improved his technique and expanded his musical taste. He was attracted to sounds and melodies deeply rooted in jazz, funky soul and classical music.
-        His DJ sets are characterized by several genres. He loves to improvise, but also takes care of the technique and his feeling for music.
-        His strong desire to deepen his musical studies led him to attend a course at the „Spazio Musica“ school in 2009. He became a sound engineer and then began his career as a producer.
-        In August 2013 the first big success: His track "Love Intro", from his first EP "Groove Family", reached the first place on the Electronica charts of Beatport. In early 2015 his first album "From Daddy's Bag" was released on Overdrive Music.
-        
-        In July 2015 he released "Vento" on Diynamic Music's VA "Four To The Floor 05". In early 2016 the his first full EP "Essenza EP" was releases on Diynamic with followed by "Artemisia" on FFRR later that year.
-        In October 2017 he released his second EP on Diynamic "Midnight Love". In December 2018 "Cuore EP" will be released on Chapter 24 Records and will soon be back on Diynamic with the upcoming release of "Dreams EP".
-        
-        Looking at his latest productions, it's clear that Andy Bros journey has made him a versatile and complete artist who is not afraid to experiment with different genres to give them their touch.`
+    // {
+    //     name: 'Andy Bros',
+    //     short: 'andybros.html',
+    //     pic: 'andybros.jpeg',
+    //     description: `Andy Bros was born in 1987. Since his earliest youth he has been in touch with music thanks to his family. In 2001 he started DJ'ing, which soon became his passion. Over the years he improved his technique and expanded his musical taste. He was attracted to sounds and melodies deeply rooted in jazz, funky soul and classical music.
+    //     His DJ sets are characterized by several genres. He loves to improvise, but also takes care of the technique and his feeling for music.
+    //     His strong desire to deepen his musical studies led him to attend a course at the „Spazio Musica“ school in 2009. He became a sound engineer and then began his career as a producer.
+    //     In August 2013 the first big success: His track "Love Intro", from his first EP "Groove Family", reached the first place on the Electronica charts of Beatport. In early 2015 his first album "From Daddy's Bag" was released on Overdrive Music.
 
-    },
+    //     In July 2015 he released "Vento" on Diynamic Music's VA "Four To The Floor 05". In early 2016 the his first full EP "Essenza EP" was releases on Diynamic with followed by "Artemisia" on FFRR later that year.
+    //     In October 2017 he released his second EP on Diynamic "Midnight Love". In December 2018 "Cuore EP" will be released on Chapter 24 Records and will soon be back on Diynamic with the upcoming release of "Dreams EP".
+
+    //     Looking at his latest productions, it's clear that Andy Bros journey has made him a versatile and complete artist who is not afraid to experiment with different genres to give them their touch.`
+
+    // },
     {
         name: 'Cipy',
         short: 'cipy.html',
