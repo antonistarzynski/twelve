@@ -31,15 +31,15 @@ const artists = [
         Solomun, Dixon, AME, Pete Tong and Keinemusik are regular supporters of his tracks and are usually the first ones to test his new demos to a large audience. This has led to new song collaborations with Re.You , Pongo and Sobek. Aikon tracks break records top charts beatport and now Aikon is in the top 10 Indie Dance artists beatport in this season.
         Labels : Diynamic , TAU , Multinotes , Renaissance , Monaberry , Disco Halal , Exploited.`
     },
-    {
-        name: 'Alican',
-        short: 'alican.html',
-        pic: 'alican.jpeg',
-        description: `As one of the key figureheads in Istanbul electronic music culture Alican has been a driving force behind the growth of the city’s scene. Compelled to share his deep passion for electronic music over the past two decades, his unwavering spirit and dedication to nurturing a healthy club culture has led to the formation of a mini empire that includes a successful record label and affiliated events wing; Isolate. As a selector and producer, he has established himself as a highly skilled, intuitive artist who blends emotionally charged atmospheres with deeply hypnotic rhythms and consistently positive energy. A forefather of Turkey’s fertile contemporary electronic music culture, Alican holds a lofty position in his home nation, while maintaining a humble outlook. Almost 20 years since he first became immersed in the scene, he continues to work tirelessly to support the music he loves.
+    // {
+    //     name: 'Alican',
+    //     short: 'alican.html',
+    //     pic: 'alican.jpeg',
+    //     description: `As one of the key figureheads in Istanbul electronic music culture Alican has been a driving force behind the growth of the city’s scene. Compelled to share his deep passion for electronic music over the past two decades, his unwavering spirit and dedication to nurturing a healthy club culture has led to the formation of a mini empire that includes a successful record label and affiliated events wing; Isolate. As a selector and producer, he has established himself as a highly skilled, intuitive artist who blends emotionally charged atmospheres with deeply hypnotic rhythms and consistently positive energy. A forefather of Turkey’s fertile contemporary electronic music culture, Alican holds a lofty position in his home nation, while maintaining a humble outlook. Almost 20 years since he first became immersed in the scene, he continues to work tirelessly to support the music he loves.
 
-        Modest, grounded and deeply committed to electronic music, Alican is one of the most influential figures in the Turkish electronic music scene, though he would never say that himself. An artist who is constantly seeking out pastures new, renewing himself and driven by unassuming goals, Alican never lets his ego outgrow the music. It’s this authenticity - pure, untainted - that has propelled him to his influential status and earned him universal respect. Still driven by the same genuine energy that spurred him on to experiment with electronic sounds as a teen, Alican continues to stay true to his scene, and himself, with heartfelt commitment…`
+    //     Modest, grounded and deeply committed to electronic music, Alican is one of the most influential figures in the Turkish electronic music scene, though he would never say that himself. An artist who is constantly seeking out pastures new, renewing himself and driven by unassuming goals, Alican never lets his ego outgrow the music. It’s this authenticity - pure, untainted - that has propelled him to his influential status and earned him universal respect. Still driven by the same genuine energy that spurred him on to experiment with electronic sounds as a teen, Alican continues to stay true to his scene, and himself, with heartfelt commitment…`
 
-    },
+    // },
     // {
     //     name: 'Aikon',
     //     short: 'aikon.html',
@@ -163,12 +163,12 @@ const artists = [
         pic: 'musumeci.jpeg',
         description: `Musumeci is a musical project by Mauro Di Martino, sicilian dj and producer since late 80s. In the last 10 Years with his over 200 productions between original tracks and remixes he appeared on labels like Bedrock, Connaisseur, Compost Black Label, Correspondant, Diynamic Music, Future Disco, Innervisions, MoBlack, Kompakt, Permanent Vacation, Toy Tonics, Watergate and many others, did mixtapes for Cicrocolo, Transitions, BBC Hot Mix etc. Musumeci is also owner of Engrave Ltd, Multinotes Recordings & Buttress Records. `
     },
-    {
-        name: 'Nico Morano',
-        short: 'nicomorano.html',
-        pic: 'nicomorano.jpeg',
-        description: `After more than two decades of gigs, Nico Morano’s energy has captured the hearts of melodic dance enthusiasts worldwide. From his own Ontourage Music label and events to his impressive stage hostings at Tomorrowland and Paradise City Festival, Nico's signature sound embodies the colorful flair that today's club scene often lacks. Think: harmonic melodies with an organic and progressive spirit often infused with the vibrant tints of italo or deep house. Happy vibes all over the place!`
-    },
+    // {
+    //     name: 'Nico Morano',
+    //     short: 'nicomorano.html',
+    //     pic: 'nicomorano.jpeg',
+    //     description: `After more than two decades of gigs, Nico Morano’s energy has captured the hearts of melodic dance enthusiasts worldwide. From his own Ontourage Music label and events to his impressive stage hostings at Tomorrowland and Paradise City Festival, Nico's signature sound embodies the colorful flair that today's club scene often lacks. Think: harmonic melodies with an organic and progressive spirit often infused with the vibrant tints of italo or deep house. Happy vibes all over the place!`
+    // },
     // {
     //     name: 'Olderic',
     //     short: 'olderic.html',
