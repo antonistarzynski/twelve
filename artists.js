@@ -151,6 +151,17 @@ const artists = [
     //     With Kate Stein as a guide, you won't just hear that inimitable contrast. Instead, it will appear before your very eyes and envelop your whole body. Keep an eye on this rocket: with a few more releases to come in 2023, her dynamic and fun approach to dance floor soundscapes is in full bloom.`
     // },
     {
+        name: 'Just Her',
+        short: 'justher.html',
+        pic: 'justher.jpeg',
+        description: `Enzo Elia has crafted his own style of Djing and producing that has taken him all over Europe as well as to Tokyo and Tel Aviv.
+
+        Emerging almost twenty years ago listening to classic Disco, Chicago House and Detroit Techno, he always delivers an “eclectic “journey through his overflowing vinyl collection. Elia’s chameleon approach also finds release in parallel projects like El Freakadell and Balearic Gabba Sound System.
+        
+        His music productions can be found on labels Free Range, Golf Channel, Engrave, Compost Records, Black Pearl, Hell Yeah Recordings and last but not least on the mysterious Re-edit label.`
+
+    },
+    {
         name: 'Mala Ika',
         short: 'malaika.html',
         pic: 'malaika.jpeg',

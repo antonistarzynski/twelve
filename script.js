@@ -32,57 +32,6 @@ const artists = [
         Solomun, Dixon, AME, Pete Tong and Keinemusik are regular supporters of his tracks and are usually the first ones to test his new demos to a large audience. This has led to new song collaborations with Re.You , Pongo and Sobek. Aikon tracks break records top charts beatport and now Aikon is in the top 10 Indie Dance artists beatport in this season.
         Labels : Diynamic , TAU , Multinotes , Renaissance , Monaberry , Disco Halal , Exploited.`
     },
-
-    // {
-    //     name: 'Alican',
-    //     short: 'alican.html',
-    //     pic: 'alican.jpeg',
-    //     description: `As one of the key figureheads in Istanbul electronic music culture Alican has been a driving force behind the growth of the city’s scene. Compelled to share his deep passion for electronic music over the past two decades, his unwavering spirit and dedication to nurturing a healthy club culture has led to the formation of a mini empire that includes a successful record label and affiliated events wing; Isolate. As a selector and producer, he has established himself as a highly skilled, intuitive artist who blends emotionally charged atmospheres with deeply hypnotic rhythms and consistently positive energy. A forefather of Turkey’s fertile contemporary electronic music culture, Alican holds a lofty position in his home nation, while maintaining a humble outlook. Almost 20 years since he first became immersed in the scene, he continues to work tirelessly to support the music he loves.
-
-    //     Modest, grounded and deeply committed to electronic music, Alican is one of the most influential figures in the Turkish electronic music scene, though he would never say that himself. An artist who is constantly seeking out pastures new, renewing himself and driven by unassuming goals, Alican never lets his ego outgrow the music. It’s this authenticity - pure, untainted - that has propelled him to his influential status and earned him universal respect. Still driven by the same genuine energy that spurred him on to experiment with electronic sounds as a teen, Alican continues to stay true to his scene, and himself, with heartfelt commitment…`
-
-    // },
-    // {
-    //     name: 'Aikon',
-    //     short: 'aikon.html',
-    //     pic: 'aikon.jpeg',
-    //     description: `Ukranian producer AIKON has been making waves with a steady stream of acclaimed releases, dropping records on labels such as Diynamic, Multinotes, Disco Halal, Exploited & Monaberry. His music is a haunting, hypnotic mix of dark electro, breakbeats and melodic techno - with a slight twist of a little italo & acid in there.
-    //     Solomun, Dixon, AME, Pete Tong and Keinemusik are regular supporters of his tracks and are usually the first ones to test his new demos to a large audience. This has led to new song collaborations with Re.You , Pongo and Sobek. Aikon tracks break records top charts beatport and now Aikon is in the top 10 Indie Dance artists beatport in this season.
-    //     Labels : Diynamic , TAU , Multinotes , Renaissance , Monaberry , Disco Halal , Exploited.`
-    // },
-    // {
-    //     name: 'Aldebaran',
-    //     short: 'aldebaran.html',
-    //     pic: 'aldebaran.jpeg',
-    //     description: `Aldebaran is a musical project by Michele Di Martino, roman dj and producer since the last years of 2000's. Came out from the mixture of electronic music and visual arts, it's just the point where imagination and feels are ﬁxed and transformed into music.
-
-    //     Inspired from the Taurus constellation and the wedding beetween black and red shades, Pace & Tempesta is his ﬁrst EP produced for Multinotes.`
-
-    // },
-    // {
-    //     name: 'Alex Flitsch',
-    //     short: 'alexflitsch.html',
-    //     pic: 'alexflitsch.jpeg',
-    //     description: `Born in the city of Pforzheim in the 70ies, Alex Flitsch was the youngest son of a traditional jeweller family. No one would have thought, that he would one day be travelling the world as a DJ, packed with records, nor that he would be running any successful electronic dance labels! But, that’s the way the cookie crumble. Alex had always been a music fanatic, and when techno hit the scene in the early 90ies, there simply was no way back.
-
-    //     Being an enthusiastic collector of vinyl since the early nineties, he had his first DJ-gig in 1994. In 2005 he founded the well-known Connaisseur Recordings label together with Martin Henkel and his wife Hilary in Frankfurt/Main. Several very successful releases on the label took Alex’s DJ career to another level. He has already rocked places like Tokyo, London, Mexico City, Moscow, Amsterdam, Stockholm, Vienna, Zürich, Bucharest, Offenbach and of course Berlin just to name a few.`
-
-    // },
-    // {
-    //     name: 'Andy Bros',
-    //     short: 'andybros.html',
-    //     pic: 'andybros.jpeg',
-    //     description: `Andy Bros was born in 1987. Since his earliest youth he has been in touch with music thanks to his family. In 2001 he started DJ'ing, which soon became his passion. Over the years he improved his technique and expanded his musical taste. He was attracted to sounds and melodies deeply rooted in jazz, funky soul and classical music.
-    //     His DJ sets are characterized by several genres. He loves to improvise, but also takes care of the technique and his feeling for music.
-    //     His strong desire to deepen his musical studies led him to attend a course at the „Spazio Musica“ school in 2009. He became a sound engineer and then began his career as a producer.
-    //     In August 2013 the first big success: His track "Love Intro", from his first EP "Groove Family", reached the first place on the Electronica charts of Beatport. In early 2015 his first album "From Daddy's Bag" was released on Overdrive Music.
-
-    //     In July 2015 he released "Vento" on Diynamic Music's VA "Four To The Floor 05". In early 2016 the his first full EP "Essenza EP" was releases on Diynamic with followed by "Artemisia" on FFRR later that year.
-    //     In October 2017 he released his second EP on Diynamic "Midnight Love". In December 2018 "Cuore EP" will be released on Chapter 24 Records and will soon be back on Diynamic with the upcoming release of "Dreams EP".
-
-    //     Looking at his latest productions, it's clear that Andy Bros journey has made him a versatile and complete artist who is not afraid to experiment with different genres to give them their touch.`
-
-    // },
     {
         name: 'Cipy',
         short: 'cipy.html',
@@ -124,34 +73,17 @@ const artists = [
         His music productions can be found on labels Free Range, Golf Channel, Engrave, Compost Records, Black Pearl, Hell Yeah Recordings and last but not least on the mysterious Re-edit label.`
 
     },
-    // {
-    //     name: 'Hatelove',
-    //     short: 'hatelove.html',
-    //     pic: 'hatelove.jpeg',
-    //     description: `HATELOVE-The Warsaw-based producer and DJ is one of the most exciting emerging acts right now, whose productions have been taking dance floors by storm. He represents the industrial side of club electronics and his raw, dark, post-metal aesthetics won him a devoted group of supporters among hard techno fans and he's released his debiut EP on SNTS Sacred Court label.`
-    // },
-    // {
-    //     name: 'Human Machine',
-    //     short: 'humanmachine.html',
-    //     pic: 'humanmachine.jpeg',
-    //     description: `Human Machine is a musical project created by four sicilian djs and friends.
-    //     Mixing the 4 different musical roots and skills into one new identity, they have a simple rule: to make music in order to dance. After their debut ep ‘Black Mechanism’ on Engrave Ltd they released on Connaisseur, Exit Strategy and Diynamic Music.`
-    // },
-    // {
-    //     name: 'Kate Stein',
-    //     short: 'katestein.html',
-    //     pic: 'katestein.jpeg',
-    //     description: `A nascent purveyor of house and cutting-edge disko in all its forms, DJ/producer and visual artist Kate Stein is grooving her way into the good graces of underground circles everywhere with an experiential sound that's all her own. Australian born, Stein first entered the world of art via set design, meticulously crafting event spaces with an eye for the elegant and the mischievous. Moving to New York in 2012, years of developing her unmistakable style as a spatial designer, her skills with composition, color, and ambiance have coagulated into a raw creative force she manipulates into any form she desires.
+    {
+        name: 'Just Her',
+        short: 'justher.html',
+        pic: 'justher.jpeg',
+        description: `Enzo Elia has crafted his own style of Djing and producing that has taken him all over Europe as well as to Tokyo and Tel Aviv.
 
-    //     A confident performer who has appeared at House of Yes, Mayan Warrior and Cityfox Experience at Brooklyn Mirage, among many other notorious spots, Kate is also carving out her own lane with her productions. Stein channels that force into aggressive rhythms, heavy percussion, and arcane melodies. Releasing her debut Scenic Byway and sophomore Mystic Saddle Ranch EPs in 2021 via Roam Recordings and Playground Records — featuring remixes from the likes of Perel, Zillas On Acid, Balam, and Autarkic — selectors worldwide continue to take notice of Stein's hypnotic pull. July 2022 has her third EP released on TAU, with the Death Stocked EP, her debut with Adana Twins’ label. The EP boasts a bumper selection of reworks from Curses, Zombies in Miami and Leonor.
+        Emerging almost twenty years ago listening to classic Disco, Chicago House and Detroit Techno, he always delivers an “eclectic “journey through his overflowing vinyl collection. Elia’s chameleon approach also finds release in parallel projects like El Freakadell and Balearic Gabba Sound System.
+        
+        His music productions can be found on labels Free Range, Golf Channel, Engrave, Compost Records, Black Pearl, Hell Yeah Recordings and last but not least on the mysterious Re-edit label.`
 
-    //     With audio landscapes meant to inspire joviality and bring about unexpected feelings, this is not the music of pure escapism. This is the music of revelation—opening space within to explore the nebulous reaches of yourself.
-
-    //     In the eyes and ears of Stein, these sounds paint the pictures of New York City's bustling streets and the outlying deserts around Los Angeles, the two metropolises she currently calls home. Within these concrete jungles laid opposite one another, every environment which Stein wishes
-    //     to fill with pulsating frequencies exists. Pop-ups. Niche festivals. Places where someone can fully express their inner-child.
-
-    //     With Kate Stein as a guide, you won't just hear that inimitable contrast. Instead, it will appear before your very eyes and envelop your whole body. Keep an eye on this rocket: with a few more releases to come in 2023, her dynamic and fun approach to dance floor soundscapes is in full bloom.`
-    // },
+    },
     {
         name: 'Mala Ika',
         short: 'malaika.html',
@@ -165,21 +97,6 @@ const artists = [
         pic: 'musumeci.jpeg',
         description: `Musumeci is a musical project by Mauro Di Martino, sicilian dj and producer since late 80s. In the last 10 Years with his over 200 productions between original tracks and remixes he appeared on labels like Bedrock, Connaisseur, Compost Black Label, Correspondant, Diynamic Music, Future Disco, Innervisions, MoBlack, Kompakt, Permanent Vacation, Toy Tonics, Watergate and many others, did mixtapes for Cicrocolo, Transitions, BBC Hot Mix etc. Musumeci is also owner of Engrave Ltd, Multinotes Recordings & Buttress Records. `
     },
-    // {
-    //     name: 'Nico Morano',
-    //     short: 'nicomorano.html',
-    //     pic: 'nicomorano.jpeg',
-    //     description: `After more than two decades of gigs, Nico Morano’s energy has captured the hearts of melodic dance enthusiasts worldwide. From his own Ontourage Music label and events to his impressive stage hostings at Tomorrowland and Paradise City Festival, Nico's signature sound embodies the colorful flair that today's club scene often lacks. Think: harmonic melodies with an organic and progressive spirit often infused with the vibrant tints of italo or deep house. Happy vibes all over the place!`
-    // },
-    // {
-    //     name: 'Olderic',
-    //     short: 'olderic.html',
-    //     pic: 'olderic.jpeg',
-    //     description: `Enrico De Vecchi, better known as Olderic, is a Venice based dj, producer, parties organizer and vinyls collector since early 2000s.
-    //     The sum of events have conducted his career, between 2009 and 2012, inside a thriving tech groovy age, playing all around Europe and releasing on some of the most influential labels of that period, like Area Remote, Terminal M and Saved.
-    //     His first love, the one for melodies and armonies, rised up at the end of that cycle, coming stronger than ever and guiding him to a new brighting music scene, giving him the force to release music on labels like Connaisseur, Compost, Siamese, Get Physical, Moodmusic, Embassy of Music, Best Works and Innervisions, as Olderic and as Stereocalypse, the duo project created together with the studio pioneer Andrea Doria.
-    //     Co-founder of Multinotes together with Lehar and Musumeci`
-    // },
     {
         name: 'Phunkadelica',
         short: 'phunkadelica.html',
