@@ -189,15 +189,15 @@ const artists = [
     //     His first love, the one for melodies and armonies, rised up at the end of that cycle, coming stronger than ever and guiding him to a new brighting music scene, giving him the force to release music on labels like Connaisseur, Compost, Siamese, Get Physical, Moodmusic, Embassy of Music, Best Works and Innervisions, as Olderic and as Stereocalypse, the duo project created together with the studio pioneer Andrea Doria.
     //     Co-founder of Multinotes together with Lehar and Musumeci`
     // },
-    {
-        name: 'Phunkadelica',
-        short: 'phunkadelica.html',
-        pic: 'phunkadelica.jpeg',
-        description: `A sparkling, multi-flavoured injection of waves, dimensions and grooves developed to increase intergalactic powers and abilities, thanks to a mix of timeless beats, spicy snares, tec-no-logical fills, talking hats, hyperbolic arpeggiators, cosmic smokey clouds, synthetic sinusoidal acidifying.
-        It will be a shuttle to draw all your routes across the cosmos.
-        
-        Universe is elusive, keep it stronger!`
-    },
+    // {
+    //     name: 'Phunkadelica',
+    //     short: 'phunkadelica.html',
+    //     pic: 'phunkadelica.jpeg',
+    //     description: `A sparkling, multi-flavoured injection of waves, dimensions and grooves developed to increase intergalactic powers and abilities, thanks to a mix of timeless beats, spicy snares, tec-no-logical fills, talking hats, hyperbolic arpeggiators, cosmic smokey clouds, synthetic sinusoidal acidifying.
+    //     It will be a shuttle to draw all your routes across the cosmos.
+
+    //     Universe is elusive, keep it stronger!`
+    // },
     {
         name: 'Private Press',
         short: 'privatepress.html',
