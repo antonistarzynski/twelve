@@ -97,15 +97,15 @@ const artists = [
         pic: 'musumeci.jpeg',
         description: `Musumeci is a musical project by Mauro Di Martino, sicilian dj and producer since late 80s. In the last 10 Years with his over 200 productions between original tracks and remixes he appeared on labels like Bedrock, Connaisseur, Compost Black Label, Correspondant, Diynamic Music, Future Disco, Innervisions, MoBlack, Kompakt, Permanent Vacation, Toy Tonics, Watergate and many others, did mixtapes for Cicrocolo, Transitions, BBC Hot Mix etc. Musumeci is also owner of Engrave Ltd, Multinotes Recordings & Buttress Records. `
     },
-    // {
-    //     name: 'Phunkadelica',
-    //     short: 'phunkadelica.html',
-    //     pic: 'phunkadelica.jpeg',
-    //     description: `A sparkling, multi-flavoured injection of waves, dimensions and grooves developed to increase intergalactic powers and abilities, thanks to a mix of timeless beats, spicy snares, tec-no-logical fills, talking hats, hyperbolic arpeggiators, cosmic smokey clouds, synthetic sinusoidal acidifying.
-    //     It will be a shuttle to draw all your routes across the cosmos.
+    {
+        name: 'Phunkadelica',
+        short: 'phunkadelica.html',
+        pic: 'phunkadelica.jpeg',
+        description: `A sparkling, multi-flavoured injection of waves, dimensions and grooves developed to increase intergalactic powers and abilities, thanks to a mix of timeless beats, spicy snares, tec-no-logical fills, talking hats, hyperbolic arpeggiators, cosmic smokey clouds, synthetic sinusoidal acidifying.
+        It will be a shuttle to draw all your routes across the cosmos.
 
-    //     Universe is elusive, keep it stronger!`
-    // },
+        Universe is elusive, keep it stronger!`
+    },
     {
         name: 'Private Press',
         short: 'privatepress.html',
