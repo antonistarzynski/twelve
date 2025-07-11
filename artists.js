@@ -273,6 +273,12 @@ isions, Crosstown Rebels, Correspondant, Diynamic and many others.`
         description: `The Warsaw based duo Private Press focusses on producing high energy and dubbed out techno cuts. They delivered multiple EP’s and singles for labels such as Rekids, Indigo Aare, Hardgroove and Of Paradise. Their latest material was featured in Cyberpunk 2077 game and Netflix anime series Edgerunners.`
     },
     {
+        name: 'Theus Mago',
+        short: 'theusmago.html',
+        pic: 'theusmago.jpeg',
+        description: `Theus Mago is the digital alter ego of Mateo—a reclusive Lat-in techno mystic, half video game dropout, half bedroom philoso-pher—co-head of Duro. Since his breakout with on Correspondant in2015, Theus Mago has spun chopped vocals and modular synths intoacid-laced house bombs that earned early support from big namesin the underground electronic realm.Born in the haze of Mexico City’s club scene, Theus Mago growsbetween remote raves in the woods and rough-night clubbing de-tours, blending subtly glitched beats with rave-damaged heart.His releases span an eclectic range of cult-favorite labels: Tur-bo Recordings, Lumiere Noire, Ombra Intl, DGTL, Live at RobertJohnson, Watergate, Defected, and more.In 2023, his collaboration The Dream with Adam Port (Keinemusik)became a long-running chart favorite, further cementing his placein the global dance music underground. Theus isn’t here to domi-nate the dancefloor—he’s here to weird it out, a slouch, and justenough bass to trigger forgotten rave memories.`
+    },
+    {
         name: 'Way Of Thinking',
         short: 'wayofthinking.html',
         pic: 'wayofthinking.jpeg',
