@@ -31,6 +31,16 @@ const artists = [
         Solomun, Dixon, AME, Pete Tong and Keinemusik are regular supporters of his tracks and are usually the first ones to test his new demos to a large audience. This has led to new song collaborations with Re.You , Pongo and Sobek. Aikon tracks break records top charts beatport and now Aikon is in the top 10 Indie Dance artists beatport in this season.
         Labels : Diynamic , TAU , Multinotes , Renaissance , Monaberry , Disco Halal , Exploited.`
     },
+    {
+        name: 'Alex Medina',
+        short: 'alexmedina.html',
+        pic: 'alexmedina.jpeg',
+        description: ` Alex Medina is a DJ, live act, producer, and founder of Mumbai Records. With over 30 years of experience, he stands as a respected and influential figure in the global electronic music scene, known for his meticulous sound design, immersive atmospheres, and a relentlessly innovative approach. Currently, Alex is experiencing one of the most creative and high - profile phases of his career: • He has just released a new EP on Bedrock, the iconic label curated by John Digweed, alongside an exclusive DJ set for Digweed’s renowned Transitions Radio show. 
+•A fresh collaboration with D - Formation has just landed on Beatfreak Records.
+• His upcoming third release on Innervisions — with the backing of Dixon — cements his relationship with one of the most influential labels in contemporary electronic music.
+• He also announces a forthcoming release on Sum Over Histories, alongside Frankey & Sandrino, marking another strong step into the refined world of emotional, forward - thinking house.
+In addition, Alex continues to release music on prestigious imprints such as TAU, Diynamic, Watergate, MoBlack, Mobilee, Stil vor Talent, and his own Mumbai Records, distributed by Innervisions. His productions have earned the consistent support of key tastemakers like Laurent Garnier, Âme, Dixon, John Digweed, Solomun, Trikk, Jimi Jules, Mano Le Tough, and Michael Mayer, underscoring his ongoing relevance and impact on the international stage. Under his direction, Mumbai Records has emerged as a vital platform for emotional house and techno, known for its commitment to quality and innovation. With a strong presence across Europe, Asia, and South America, Alex Medina is reconnecting with global audiences. His current sound — personal, futuristic, and deeply emotional — reflects an artist at the peak of his creative power`
+    },
     // {
     //     name: 'Alican',
     //     short: 'alican.html',
@@ -101,6 +111,23 @@ const artists = [
 
     },
     {
+        name: 'Dino Lenny',
+        short: 'dinolenny.html',
+        pic: 'dinolenny.jpeg',
+        description: `
+Dino Lenny (R&S/ Ellum/ Afterlife/ Diynamic/ Innervisons/ Cocoon) London
+Dino Lenny is an Italian electronic producer settled in London
+He is the founder of Fine Human Records.
+Starts young as a dj in a small radio in Cassino (Italy).
+After a while he
+moves to London where he gaines notoriety remixing Underworld, INXS,
+Missy Elliot, Timbaland and collaborating with everyone from Scissor Sisters to WuTang
+Clan and Madonna. From 2014 onwards starts enjoying successful releases on labels like
+Ellum, Innerv
+isions, Crosstown Rebels, Correspondant, Diynamic and many others.`
+
+    },
+    {
         name: 'Dodi ODD1 Palese',
         short: 'dodi.html',
         pic: 'dodi.jpeg',
@@ -121,6 +148,34 @@ const artists = [
         
         His music productions can be found on labels Free Range, Golf Channel, Engrave, Compost Records, Black Pearl, Hell Yeah Recordings and last but not least on the mysterious Re-edit label.`
 
+    },
+    {
+        name: 'FAE',
+        short: 'fae.html',
+        pic: 'fae.jpeg',
+        description: `FAE is DJ and musician based in Rome.
+            Since she was a child, she soon
+            discovered the love for the music,
+            expecially for the piano, passion that
+            led her very young to begin the studies
+            for piano and classical composition.
+            Always attracted also from electronic
+            music, Fae starts to play in the clubs of
+            her city, Rome and she turns the
+            knowledge of musical theory into
+            electronic sounds, using synthetizers
+            and producing the first experimental
+            tracks. A special combination of
+            emotional melodies and infectious
+            grooves who led her to play as DJ and
+            performer to the best international
+            clubs and to release the first tracks on
+            labels like bordersoflight , Innuendo,
+            Amaeolabel and getting massive
+            support from artists like Ame, Trikk, Jimi
+            Jules, Ivory, Echonomist, Skala,
+            Avangart Tabldot, Re You, Sam Shure
+            and more.`
     },
     // {
     //     name: 'Hatelove',
@@ -159,6 +214,19 @@ const artists = [
         Emerging almost twenty years ago listening to classic Disco, Chicago House and Detroit Techno, he always delivers an “eclectic “journey through his overflowing vinyl collection. Elia’s chameleon approach also finds release in parallel projects like El Freakadell and Balearic Gabba Sound System.
         
         His music productions can be found on labels Free Range, Golf Channel, Engrave, Compost Records, Black Pearl, Hell Yeah Recordings and last but not least on the mysterious Re-edit label.`
+
+    },
+    {
+        name: 'Kanykei',
+        short: 'kanykei.html',
+        pic: 'kanykei.jpeg',
+        description: `A rising force in New York City’s electronic music scene, Kanykei is a DJ, producer, and co-founder of the ground breaking event-producing collective AIONIA.
+         
+            Her debut EP, Sun Reign, released in November 2024 on Katermukke in collaboration with Niconé, has garnered critical acclaim for its atmospheric textures and melodic depth.
+           
+            Kanykei has shared the decks with some of the biggest names in electronic music, including Âme, Nicole Moudaber, Green Velvet, and LP Giobbi. Her performances have graced iconic spaces like Elsewhere, House of Yes, and Do Not Sit On The Furniture, earning her a reputation for delivering dynamic, high-energy sets.
+         
+            Beyond NYC, her reach extends across North America, with appearances in Miami, Los Angeles, San Francisco, New Orleans, and Hawaii. A regular at Burning Man, she’s brought her unique sound to revered camps such as Hot Mess and Pink Mammoth, seamlessly blending genres to create moments of collective euphoria on the dancefloor.`
 
     },
     {
