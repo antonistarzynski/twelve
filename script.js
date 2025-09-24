@@ -163,7 +163,11 @@ isions, Crosstown Rebels, Correspondant, Diynamic and many others.`
         name: 'Musumeci',
         short: 'musumeci.html',
         pic: 'musumeci.jpeg',
-        description: `Musumeci is a musical project by Mauro Di Martino, sicilian dj and producer since late 80s. In the last 10 Years with his over 200 productions between original tracks and remixes he appeared on labels like Bedrock, Connaisseur, Compost Black Label, Correspondant, Diynamic Music, Future Disco, Innervisions, MoBlack, Kompakt, Permanent Vacation, Toy Tonics, Watergate and many others, did mixtapes for Cicrocolo, Transitions, BBC Hot Mix etc. Musumeci is also owner of Engrave Ltd, Multinotes Recordings & Buttress Records. `
+        description: `Musumeci is the musical project of Mauro Di Martino, a Sicilian DJ and producer active since the late 80s. Through his numerous and always surprising productions — more than 200 releases and remixes in the last 10 years alone, appearing on labels like Bedrock, Compost Black Label, Diynamic Music, Future Disco, Innervisions, MoBlack, Kompakt, Permanent Vacation, Sudbeat, Toy Tonics, Universal, Watergate, and many more — he has largely contributed to putting Italy on the global map of electronic music.
+
+Whether on his own labels — Somethingnu, Engrave Ltd, Buttress, and Multinotes — or through his various collaborations and remixes for artists such as Emmanuel Jal, Bob Sinclar, Kungs, David Guetta, MoBlack, and Crystal Fighters, to name just a few, Musumeci is committed to shining a light on promising talents as well as heartfelt, distinctive personalities, all while continuously expanding his musical world and knowledge.
+
+His extensive experience on the dancefloor and in the studio, his ability to fully embrace the musical moment regardless of genre, and his ongoing quest for pure, colorful emotions of all kinds make him one of the unmissable figures of the contemporary electronic music scene.`
     },
     {
         name: 'Phunkadelica',
