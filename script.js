@@ -1,12 +1,5 @@
 const artists = [
     {
-        name: 'A45',
-        short: 'a45.html',
-        pic: 'a45.jpeg',
-        description: `Getting inspiration from Jeff Mills’, James Ruskin’s and Oscar Mulero’s particular sound for his latest creations, he makes the utmost use of samples of TR909 and of ‘syncopated melodies’ typical of this genre.`
-
-    },
-    {
         name: 'AFFKT',
         short: 'affkt.html',
         pic: 'affkt.jpeg',
@@ -41,6 +34,31 @@ const artists = [
 • His upcoming third release on Innervisions — with the backing of Dixon — cements his relationship with one of the most influential labels in contemporary electronic music.
 • He also announces a forthcoming release on Sum Over Histories, alongside Frankey & Sandrino, marking another strong step into the refined world of emotional, forward - thinking house.
 In addition, Alex continues to release music on prestigious imprints such as TAU, Diynamic, Watergate, MoBlack, Mobilee, Stil vor Talent, and his own Mumbai Records, distributed by Innervisions. His productions have earned the consistent support of key tastemakers like Laurent Garnier, Âme, Dixon, John Digweed, Solomun, Trikk, Jimi Jules, Mano Le Tough, and Michael Mayer, underscoring his ongoing relevance and impact on the international stage. Under his direction, Mumbai Records has emerged as a vital platform for emotional house and techno, known for its commitment to quality and innovation. With a strong presence across Europe, Asia, and South America, Alex Medina is reconnecting with global audiences. His current sound — personal, futuristic, and deeply emotional — reflects an artist at the peak of his creative power`
+    },
+    {
+        name: 'Brain de Palma',
+        short: 'braindepalma.html',
+        pic: 'braindepalma.jpeg',
+        description: `Brain De Palma is the musical identity of Alexei Versino flowing between the mental “Brain” and the tropical “Palma” realms of electronic music.
+
+
+
+First artist to release an album on Peggy Gou’s Gudu Records, Rhythmption LP is his last fatigue. Known also for his project Stump Valle (Dekmantel, Rush Hour, Toy Tonics), he is constantly on the hunt for new musical horizons for his sets.
+
+
+
+Born in Ukraine, Alexei’s family chose to leave the area following the fallout from the Chernobyl nuclear disaster. Settling as a child in Turin, the Italian ‘motor city’, Versino was immersed in the local techno movement in his teens as well as many scenes since, navigating Europe for decades, immersed in disparate musical corners, from the squat raves of Bristol to the laid back charm of the Balearics and the cultural contrasts of Egypt.
+
+
+
+Following a phase of intense creation during the pandemic lockdown, this forced confinement accelerated a transition to a new electronic identity, one rooted in early musical taste and his inner-child memories. This sonic rebirth manifests as a warm landscape constantly floating through intelligent tech patterns, Latin-inspired rhythms, trance melodies and folk elements.
+
+
+
+BDP is a compulsive crate digger and his set owes a debt to decades of music for dancing.
+
+`
+
     },
     {
         name: 'Cipy',
@@ -101,42 +119,32 @@ isions, Crosstown Rebels, Correspondant, Diynamic and many others.`
 
     },
     {
-        name: 'FAE',
-        short: 'fae.html',
-        pic: 'fae.jpeg',
-        description: `FAE is DJ and musician based in Rome.
-            Since she was a child, she soon
-            discovered the love for the music,
-            expecially for the piano, passion that
-            led her very young to begin the studies
-            for piano and classical composition.
-            Always attracted also from electronic
-            music, Fae starts to play in the clubs of
-            her city, Rome and she turns the
-            knowledge of musical theory into
-            electronic sounds, using synthetizers
-            and producing the first experimental
-            tracks. A special combination of
-            emotional melodies and infectious
-            grooves who led her to play as DJ and
-            performer to the best international
-            clubs and to release the first tracks on
-            labels like bordersoflight , Innuendo,
-            Amaeolabel and getting massive
-            support from artists like Ame, Trikk, Jimi
-            Jules, Ivory, Echonomist, Skala,
-            Avangart Tabldot, Re You, Sam Shure
-            and more.`
+        name: 'Io ed Palmieri live',
+        short: 'ioedpalmieri.html',
+        pic: 'ioedpalmieri.jpeg',
+        description: ` Io e Palmieri is a distant future where opposites coexist.
+"Io" is Luca Giordano - multi-instrumentalist, arranger and producer.
+"Palmieri" is Ilaria Palmieri - singer and songwriter.
+"e" represents the inspiring and shaping synthesis of the Neapolitan band, the coexistence of old and new,
+analogue and digital.
+"Passi" is the first unreleased single in a double version: the original mix and the version remixed by Deborah De
+Luca.
+“Futura” is a cover version of Lucio Dalla’s song. For those who know the original song is gonna be a time travel
+trough memories and suggestions, for those who don’t maybe an occasion to get in touch with one of the most
+beautiful songs ever written in the Italian music history.
+“Tutto Nero”: Offbeat basslines and Italo Disco atmospheres come together in a track that blends nostalgia and
+carefree vibes - a perfect nod to the timeless spirit of summer.`
+
     },
     {
         name: 'Just Her',
         short: 'justher.html',
         pic: 'justher.jpeg',
-        description: `Enzo Elia has crafted his own style of Djing and producing that has taken him all over Europe as well as to Tokyo and Tel Aviv.
+        description: `JUST FEEL: Just Her sets are wondrous occasions. With a unique ability to move your feet and heart in equal measure, she crafts her own brand of emotive house music, spreading joy on dancefloors, festival fields and beach parties across the world.
 
-        Emerging almost twenty years ago listening to classic Disco, Chicago House and Detroit Techno, he always delivers an “eclectic “journey through his overflowing vinyl collection. Elia’s chameleon approach also finds release in parallel projects like El Freakadell and Balearic Gabba Sound System.
-        
-        His music productions can be found on labels Free Range, Golf Channel, Engrave, Compost Records, Black Pearl, Hell Yeah Recordings and last but not least on the mysterious Re-edit label.`
+JUST GROW: With one foot firmly in the DJ booth after cutting her teeth spinning vinyl in sweaty back rooms, and the other in her fast developing producer and songwriter career, Just Her has already carved out an impressive back catalogue on world class labels including Anjunadeep, Crosstown Rebels, Global Underground and Armada, achieving a wealth of Beatport chart positions, an Essential New Tune on Radio 1 and high profile press features in the likes of DJ Mag & Mixmag. Also establishing herself as an accomplished remixer, Just Her has deconstructed tracks from key players such as Armin Van Buuren and Lane 8, crafting them skillfully into her signature deep emotive cuts. Always one to see the bigger picture, Just Her also created Constant Circles - a unique concept in which music & contemporary visual art are combined. This would serve as an outlet for her own music, with successful label parties across the UK & Europe, art exhibitions in Brighton and London and a radio show on key online stations.
+
+JUST THRIVE: The 2020s have seen Just Her going from strength to strength, along with major life achievements, including becoming a mum and achieving a Masters Degree in Music. Incredibly, Just Her has balanced the demands of parenthood with the life of a world class Musician. Along with stellar releases on labels such as Armada, Renaissance, HE.SHE.THEY and Soundgarden, recent years have seen Just Her storm all corners of the globe, including multiple tours in India, USA and Australia, plus shows in all the major cities from Berlin to Paris to London. Never one to hide her emotions, Just Her shared tears with the crowd on the beach in Dhermi, poured her heart into a standout set of 90s classics at London’s Dockyards and a relished a bucket list moment at the 10000 capacity ‘On the Beach’ festival in her home town of Brighton.`
 
     },
     {
@@ -158,6 +166,16 @@ isions, Crosstown Rebels, Correspondant, Diynamic and many others.`
         pic: 'malaika.jpeg',
         description: `Born and Raised in Guadeloupe, FWI, Mala Ika is a French DJ and Producer. Earlier her passion for digging electronic musique helps her become one of the founders of the Media Beweird and Label Weirdos Records. Known for being workaholic and creative, she provides a spicy and original music. After few years and a lockdown
         intense, She came back with a new Indie dance style and vision.`
+    },
+    {
+        name: 'Maria Nocheydía',
+        short: 'marianochedia.html',
+        pic: 'marianochedia.jpeg',
+        description: `Maria Nocheydia is a DJ and producer from Mexico City who’s been shaping her sound since she first stepped behind the decks at 17. Her journey took off with a residency at CSRhodesia in 2012, and in 2020 she dove fully into her professional career—soon after joining the legendary Mayan Warrior crew, where she became a resident for the last couple of years.
+ 
+Known for her fluid style and high-energy sets and cosmic soundscapes. Maria has brought her sound to some of the world’s most loved dancefloors, from Circoloco, UNVRS and Hï Ibiza to EDC, Day Zero, Gardens of Babylon, and Mayan Warrior. Her performances reflect a deep connection to rave culture—raw, emotive, and designed for collective release.
+ 
+Maria has releases on Around Midnight, Phisica, and Departamento Records, and is workig on a new album to be released pressed on Vinyl this Spring, alongside with mixes for Rufus du sol´s Rose Avenue Records, Keinemusik radio, Electronic Groove, Hi Ibiza, Riotvan, and more, which showcase her range and taste. With every set, she continues to craft her own evolving, hypnotic and highly cosmic world on the dancefloor.`
     },
     {
         name: 'Musumeci',
@@ -189,12 +207,6 @@ His extensive experience on the dancefloor and in the studio, his ability to ful
         short: 'theusmago.html',
         pic: 'theusmago.jpeg',
         description: `Theus Mago is the digital alter ego of Mateo—a reclusive Lat-in techno mystic, half video game dropout, half bedroom philoso-pher—co-head of Duro. Since his breakout with on Correspondant in2015, Theus Mago has spun chopped vocals and modular synths intoacid-laced house bombs that earned early support from big namesin the underground electronic realm.Born in the haze of Mexico City’s club scene, Theus Mago growsbetween remote raves in the woods and rough-night clubbing de-tours, blending subtly glitched beats with rave-damaged heart.His releases span an eclectic range of cult-favorite labels: Tur-bo Recordings, Lumiere Noire, Ombra Intl, DGTL, Live at RobertJohnson, Watergate, Defected, and more.In 2023, his collaboration The Dream with Adam Port (Keinemusik)became a long-running chart favorite, further cementing his placein the global dance music underground. Theus isn’t here to domi-nate the dancefloor—he’s here to weird it out, a slouch, and justenough bass to trigger forgotten rave memories.`
-    },
-    {
-        name: 'Way Of Thinking',
-        short: 'wayofthinking.html',
-        pic: 'wayofthinking.jpeg',
-        description: `Way of Thinking is the project of Álvaro Mesa, one of the most relevant and promising figures in the south of Spain who, after 16 years with another nickname, decided to head up this project. In just two year she has been in the best clubs inSpain, Mexico and cities such Berlin, London, Miami, Los Angeles or New York among many others. His qualities combine perfectly behind the mixer and in studio work. His soul and identity are the enveloping melodies and atmospheres without forgetting the vocal with resounding drums, always betting on the different, the elegant and the unique, always dynamizing with freshness. Without typecasting, he shows in each of his sets unreleased material where he tries to tell a story wherever he goes.After being this past year very focused on the studio, as long as the gigs allowed him, he has signed several releases in labels like Multinotes, MoBlack or Get Physical.At the same time he is Co-Owner atSun and Snow Weekend, in charge of elaborating the musical history of the event celebrated every year in the mountains of Sierra Nevada in Spain every April.`
     },
 
 ];
