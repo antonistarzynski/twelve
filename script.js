@@ -119,7 +119,7 @@ isions, Crosstown Rebels, Correspondant, Diynamic and many others.`
 
     },
     {
-        name: 'Io ed Palmieri live',
+        name: 'Io e Palmieri live',
         short: 'ioedpalmieri.html',
         pic: 'ioedpalmieri.jpeg',
         description: ` Io e Palmieri is a distant future where opposites coexist.
