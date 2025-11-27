@@ -35,6 +35,24 @@ const artists = [
 In addition, Alex continues to release music on prestigious imprints such as TAU, Diynamic, Watergate, MoBlack, Mobilee, Stil vor Talent, and his own Mumbai Records, distributed by Innervisions. His productions have earned the consistent support of key tastemakers like Laurent Garnier, Âme, Dixon, John Digweed, Solomun, Trikk, Jimi Jules, Mano Le Tough, and Michael Mayer, underscoring his ongoing relevance and impact on the international stage. Under his direction, Mumbai Records has emerged as a vital platform for emotional house and techno, known for its commitment to quality and innovation. With a strong presence across Europe, Asia, and South America, Alex Medina is reconnecting with global audiences. His current sound — personal, futuristic, and deeply emotional — reflects an artist at the peak of his creative power`
     },
     {
+        name: 'Angelo Ferreri',
+        short: 'angelo.html',
+        pic: 'angelo.jpeg',
+        description: `Angelo Ferreri is a powerhouse of the global House scene - the kind of artist you recognize from the very first groove. Producing since he was 12, he has shaped a signature Funky-Tech-House sound that dominates charts and dancefloors worldwide.
+
+As the mind behind Mood Funk Records and Monoside, Angelo delivers a nonstop flow of club weapons. His labels have become a home for heavyweights like David Penn, Robbie Rivera, Art Of Tones, Demuir, Kevin McKay, JohNick and Moon Rocket, while his own tracks regularly hit the top of Traxsource, Beatport and DSP charts.
+
+His catalogue is packed with anthems: “Ask Yourself (Can You Dance)”, “Jackin Harmony”, “A Sax Damage in NYC”, “Oh Honey”, “Izinque”, “Running Out (Glitter Mix)”, “I’m Talking to You” - all staples in DJ sets across the world.
+
+With 10M+ streams and 500K+ monthly listeners, he holds the titles of
+#1 Jackin House Artist on Traxsource
+and
+#1 Jackin House Artist on Beatport - year after year.
+
+From the USA to Australia, Europe to Africa, Angelo has shared his unmistakable energy in the world’s best clubs, proving why he’s one of the most booked and consistently explosive names in House music today.`
+
+    },
+    {
         name: 'Brain de Palma',
         short: 'braindepalma.html',
         pic: 'braindepalma.jpeg',
