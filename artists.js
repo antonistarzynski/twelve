@@ -125,6 +125,16 @@ isions, Crosstown Rebels, Correspondant, Diynamic and many others.`
 
     },
     {
+        name: 'Elfenberg',
+        short: 'elfenberg.html',
+        pic: 'elfenberg.jpeg',
+        description: `Elfenberg, a DJ and producer with over a decade of experience, has become a dynamic and influential figure in the electronic music scene. Hailing from Sweden, Elfenberg, whose real name is Viktor, has captivated audiences worldwide with his versatile and innovative sound. 
+Elfenberg's musical journey began in the early 2010s when he started DJing at local clubs and underground parties. His passion for music quickly propelled him onto the international stage, where his eclectic sets and unique blend of genres set him apart. Drawing inspiration from Trance, Acid, Disco, and House, Elfenberg has cultivated a distinct style that seamlessly merges these diverse influences, creating a sound that is both nostalgic and forward-thinking. 
+
+Throughout his career, Elfenberg has released music on several prestigious labels, including Bordello A Parigi, Correspondant, and Studio Barnhus as well as his own imprint Trampoliner. `
+
+    },
+    {
         name: 'Enzo Elia',
         short: 'enzoelia.html',
         pic: 'enzoelia.jpeg',
