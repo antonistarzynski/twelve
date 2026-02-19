@@ -147,6 +147,35 @@ Throughout his career, Elfenberg has released music on several prestigious label
 
     },
     {
+        name: 'Fae',
+        short: 'fae.html',
+        pic: 'fae.jpeg',
+        description: `FAE is DJ and musician based in Rome.
+Since she was a child, she soon
+discovered the love for the music,
+expecially for the piano, passion that
+led her very young to begin the studies
+for piano and classical composition.
+Always attracted also from electronic
+music, Fae starts to play in the clubs of
+her city, Rome and she turns the
+knowledge of musical theory into
+electronic sounds, using synthetizers
+and producing the first experimental
+tracks. A special combination of
+emotional melodies and infectious
+grooves who led her to play as DJ and
+performer to the best international
+clubs and to release the first tracks on
+labels like bordersoflight , Innuendo,
+Amaeolabel and getting massive
+support from artists like Ame, Trikk, Jimi
+Jules, Ivory, Echonomist, Skala,
+Avangart Tabldot, Re You, Sam Shure
+and more.`
+
+    },
+    {
         name: 'Io e Palmieri live',
         short: 'ioedpalmieri.html',
         pic: 'ioedpalmieri.jpeg',
@@ -235,6 +264,19 @@ His extensive experience on the dancefloor and in the studio, his ability to ful
         short: 'theusmago.html',
         pic: 'theusmago.jpeg',
         description: `Theus Mago is the digital alter ego of Mateo—a reclusive Lat-in techno mystic, half video game dropout, half bedroom philoso-pher—co-head of Duro. Since his breakout with on Correspondant in2015, Theus Mago has spun chopped vocals and modular synths intoacid-laced house bombs that earned early support from big namesin the underground electronic realm.Born in the haze of Mexico City’s club scene, Theus Mago growsbetween remote raves in the woods and rough-night clubbing de-tours, blending subtly glitched beats with rave-damaged heart.His releases span an eclectic range of cult-favorite labels: Tur-bo Recordings, Lumiere Noire, Ombra Intl, DGTL, Live at RobertJohnson, Watergate, Defected, and more.In 2023, his collaboration The Dream with Adam Port (Keinemusik)became a long-running chart favorite, further cementing his placein the global dance music underground. Theus isn’t here to domi-nate the dancefloor—he’s here to weird it out, a slouch, and justenough bass to trigger forgotten rave memories.`
+    },
+    {
+        name: 'Upercent',
+        short: 'upercent.html',
+        pic: 'upercent.jpeg',
+        description: `An unorthodox artist who has cultivated his own very particular sound, Upercent is Jose
+Molés Martínez. Born and raised in Valencia, Jose delivers powerful techno that is equal
+parts emotive and visceral, constructed with samples from a range of organic instruments
+and composed with inventive arrangements. Making music since the year 2000, he has a
+wealth of studio experience and DJ expertise inspired by the freeform nature of jazz,
+combined with the endless possibilities presented by electronic music. Upercent’s singular
+vision has led to releases with labels such as Innervisions, Kompakt, Watergate, TAU, and
+Diynamic, to name a few.`
     },
 
 ];
