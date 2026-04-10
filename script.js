@@ -176,6 +176,48 @@ and more.`
 
     },
     {
+        name: 'Frankey & Sandrino',
+        short: 'frankeysandrino.html',
+        pic: 'frankeysandrino.jpeg',
+        description: `With a creative partnership rooted in trust, intuition and constant evolution,
+            Frankey & Sandrino continue to move forward with clarity and purpose. Since forming in 2009, the duo have developed
+            a sound shaped by curiosity rather than convention, always open, always shifting and never
+            confined by expectation.<br><br>
+
+            Their music reflects an experimental yet grounded approach to electronic club culture. Emotional,
+            functional and deeply immersive, their productions are guided by feeling over formula. Frankey &
+            Sandrino have released on influential labels such as Innervisions, Mule Musiq, Kompakt, Diynamic, Rekids
+            and their own Sum Over Histories, each release representing a distinct moment rather than a repetition of past success.<br><br>
+
+            The strength of the project lies in balance. Frankey’s background as a multi-instrumentalist and
+            composer merges naturally with Sandrino’s instinctive, wide-ranging musical perspective and deep
+            connection to the dancefloor. Their creative process is ego free and deliberately open. There is no
+            fixed method, no predefined outcome, only the shared aim of reaching a point where a track feels
+            complete, honest and alive.<br><br>
+
+            This philosophy runs through their catalogue, from defining releases like
+            Acamar, Wega and Ways of the Sun, to more recent work such as Memories on Innervisions and
+            Please on Rekids. Vocals are always original, structures remain
+            fluid, and each studio session begins as if nothing came
+            before it. If something resonates widely, they move forward rather than recreate it. Progress is
+            essential.<br><br>
+            As DJs, Frankey & Sandrino are known for extended, narrative driven sets that unfold patiently and
+            with intent. Touring extensively across
+            Europe, North America and South America, they have played key spaces including
+            Stereo Montreal, fabric London, D-Edge São Paulo and Watergate Berlin. Their all night performances allow the duo to explore depth, subtlety and release, building a
+            shared experience that goes far beyond peak time moments.<br><br>
+
+            Their label Sum Over Histories, founded in 2016, remains an integral part of their creative
+            ecosystem. It continues to release music aligned with their values, emotionally resonant, open
+            minded and designed for longevity rather than immediacy. The imprint has become a platform for
+            artists who share a similar commitment to substance and exploration.<br><br>
+
+            Now fully in motion, 2026 represents another upward shift. With new music taking shape and a
+            clear sense of direction, Frankey & Sandrino remain focused on what lies ahead, driven by process,
+            guided by instinct and committed to pushing their sound forward without compromise.<br><br>`
+
+    },
+    {
         name: 'Io e Palmieri live',
         short: 'ioedpalmieri.html',
         pic: 'ioedpalmieri.jpeg',
