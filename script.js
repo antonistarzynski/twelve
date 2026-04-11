@@ -25,16 +25,16 @@ const artists = [
         Solomun, Dixon, AME, Pete Tong and Keinemusik are regular supporters of his tracks and are usually the first ones to test his new demos to a large audience. This has led to new song collaborations with Re.You , Pongo and Sobek. Aikon tracks break records top charts beatport and now Aikon is in the top 10 Indie Dance artists beatport in this season.
         Labels : Diynamic , TAU , Multinotes , Renaissance , Monaberry , Disco Halal , Exploited.`
     },
-    {
-        name: 'Alex Medina',
-        short: 'alexmedina.html',
-        pic: 'alexmedina.jpeg',
-        description: `Alex Medina is a DJ, live act, producer, and founder of Mumbai Records. With over 30 years of experience, he stands as a respected and influential figure in the global electronic music scene, known for his meticulous sound design, immersive atmospheres, and a relentlessly innovative approach. Currently, Alex is experiencing one of the most creative and high - profile phases of his career: • He has just released a new EP on Bedrock, the iconic label curated by John Digweed, alongside an exclusive DJ set for Digweed’s renowned Transitions Radio show. 
-•A fresh collaboration with D - Formation has just landed on Beatfreak Records.
-• His upcoming third release on Innervisions — with the backing of Dixon — cements his relationship with one of the most influential labels in contemporary electronic music.
-• He also announces a forthcoming release on Sum Over Histories, alongside Frankey & Sandrino, marking another strong step into the refined world of emotional, forward - thinking house.
-In addition, Alex continues to release music on prestigious imprints such as TAU, Diynamic, Watergate, MoBlack, Mobilee, Stil vor Talent, and his own Mumbai Records, distributed by Innervisions. His productions have earned the consistent support of key tastemakers like Laurent Garnier, Âme, Dixon, John Digweed, Solomun, Trikk, Jimi Jules, Mano Le Tough, and Michael Mayer, underscoring his ongoing relevance and impact on the international stage. Under his direction, Mumbai Records has emerged as a vital platform for emotional house and techno, known for its commitment to quality and innovation. With a strong presence across Europe, Asia, and South America, Alex Medina is reconnecting with global audiences. His current sound — personal, futuristic, and deeply emotional — reflects an artist at the peak of his creative power`
-    },
+    //     {
+    //         name: 'Alex Medina',
+    //         short: 'alexmedina.html',
+    //         pic: 'alexmedina.jpeg',
+    //         description: `Alex Medina is a DJ, live act, producer, and founder of Mumbai Records. With over 30 years of experience, he stands as a respected and influential figure in the global electronic music scene, known for his meticulous sound design, immersive atmospheres, and a relentlessly innovative approach. Currently, Alex is experiencing one of the most creative and high - profile phases of his career: • He has just released a new EP on Bedrock, the iconic label curated by John Digweed, alongside an exclusive DJ set for Digweed’s renowned Transitions Radio show. 
+    // •A fresh collaboration with D - Formation has just landed on Beatfreak Records.
+    // • His upcoming third release on Innervisions — with the backing of Dixon — cements his relationship with one of the most influential labels in contemporary electronic music.
+    // • He also announces a forthcoming release on Sum Over Histories, alongside Frankey & Sandrino, marking another strong step into the refined world of emotional, forward - thinking house.
+    // In addition, Alex continues to release music on prestigious imprints such as TAU, Diynamic, Watergate, MoBlack, Mobilee, Stil vor Talent, and his own Mumbai Records, distributed by Innervisions. His productions have earned the consistent support of key tastemakers like Laurent Garnier, Âme, Dixon, John Digweed, Solomun, Trikk, Jimi Jules, Mano Le Tough, and Michael Mayer, underscoring his ongoing relevance and impact on the international stage. Under his direction, Mumbai Records has emerged as a vital platform for emotional house and techno, known for its commitment to quality and innovation. With a strong presence across Europe, Asia, and South America, Alex Medina is reconnecting with global audiences. His current sound — personal, futuristic, and deeply emotional — reflects an artist at the peak of his creative power`
+    //     },
     {
         name: 'Angelo Ferreri',
         short: 'angelo.html',
