@@ -96,23 +96,23 @@ BDP is a compulsive crate digger and his set owes a debt to decades of music for
         description: `Fernando Luna is a Mexican DJ and producer from Monterrey, Nuevo Leon. Some of his influences include styles like Rock, Pop and Mexican Folk, all fused with analog and digital electronic music genres. After the great success of his releases "Moto EP" and "Inocencia EP" with the Mexican label Duro, Colossio has received the support of international DJs including Dixon, Áme and Echonomist to name a few, being "Advertencia" and the remix of Domink Marz to "Inocencia", the most outstanding tracks that were played by these renowned DJs in different parties around the world such as Space Miami, Zamna Tulum and even in a Dixon's streaming presented by Junction 2 by Beatport at the TV Tower in Berlin. He started 2021 making his debut on Toto Chiavetta's label, "Borders of Flight", participating in his annual VA with a collaboration alongside Sobek titled "Tatras" released exclusively on vinyl via Muting The Noise. That same year he also collaborated with Sobek on the release of his EP called "Fragmentado" on the Scatcity label, which includes a remix by Skatman that was released digitally and on vinyl. In 2022 he released an EP with Dominik Marz called "Erate" which will be released on Âme's label, Exit Strategy. He has remixed artists such as Luke Garcia & Th3 Oth3r, Ivory, Did Virgo, among others. He has also performed in some of the best clubs in Mexico including Topaz Deluxe, Bar Americas, Mia, Funk, Crania, Casa Cobra, Bar Oriente, and in European countries like Madrid, Barcelona, Paris, Tel Aviv, Marseille, Lyon, Lisboa, and Berlin, as well as on radio shows such as Kiosk Radio in Belgium and Redlight Radio in Amsterdam. In 2023 I will release an EP with Luke Garcia called "Let Go" which will be released on Engrave LTD with 2 remixes by the italian producer Musumeci. By the end of 2023, 2 releases are expected, the first a song on Innervisions' Secret Weapons and an EP on the Canadian label Microcastle. His versatility, approach and vision on what is the new Mexican sound is a clear example of the new wave of producers in that country that has a high caliber and the potential to become one of the most outstanding artists of his generation.`
 
     },
-    {
-        name: 'Dino Lenny',
-        short: 'dinolenny.html',
-        pic: 'dinolenny.jpeg',
-        description: `
-Dino Lenny (R&S/ Ellum/ Afterlife/ Diynamic/ Innervisons/ Cocoon) London
-Dino Lenny is an Italian electronic producer settled in London
-He is the founder of Fine Human Records.
-Starts young as a dj in a small radio in Cassino (Italy).
-After a while he
-moves to London where he gaines notoriety remixing Underworld, INXS,
-Missy Elliot, Timbaland and collaborating with everyone from Scissor Sisters to WuTang
-Clan and Madonna. From 2014 onwards starts enjoying successful releases on labels like
-Ellum, Innerv
-isions, Crosstown Rebels, Correspondant, Diynamic and many others.`
+    //     {
+    //         name: 'Dino Lenny',
+    //         short: 'dinolenny.html',
+    //         pic: 'dinolenny.jpeg',
+    //         description: `
+    // Dino Lenny (R&S/ Ellum/ Afterlife/ Diynamic/ Innervisons/ Cocoon) London
+    // Dino Lenny is an Italian electronic producer settled in London
+    // He is the founder of Fine Human Records.
+    // Starts young as a dj in a small radio in Cassino (Italy).
+    // After a while he
+    // moves to London where he gaines notoriety remixing Underworld, INXS,
+    // Missy Elliot, Timbaland and collaborating with everyone from Scissor Sisters to WuTang
+    // Clan and Madonna. From 2014 onwards starts enjoying successful releases on labels like
+    // Ellum, Innerv
+    // isions, Crosstown Rebels, Correspondant, Diynamic and many others.`
 
-    },
+    //     },
     {
         name: 'Dodi ODD1 Palese',
         short: 'dodi.html',
